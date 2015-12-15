@@ -47,13 +47,13 @@ def get_mappings():
 
 
 def get_queries():
-    for ds, map in get_mappings():
+    for ds, mapping in get_mappings():
         ds_name = ds['name']
         table_pattern = ds_name + '__'
         entry_table = '"' + table_pattern + 'entry"'
         fields = [(entry_table + '.id', '_openspending_id')]
         joins = []
-        for dim, desc in map.items():
+        for dim, desc in mapping.items():
             if desc.get('type') == 'compound':
                 dim_table = '"%s%s"' % (table_pattern, dim)
                 joins.append((dim_table, dim))
