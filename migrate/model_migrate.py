@@ -1,20 +1,50 @@
 import os
 import json
+import datapackage
+import io
+import csv
 from normality import slugify
+from jsontableschema import infer
 
-DIR = 'exports'
+DIR = 'test_exports'
 
 
 def slug(name):
     return slugify(name, sep='_')
 
+def create_datapackage(ds):
+    # Create datapackage based on dataset.json
+    dp = datapackage.DataPackage()
+    basepath = 'test_exports/{}'.format(ds['name'])
+    dp.metadata['name'] = ds['name']
+    dp.metadata['title'] = ds['label']
+    dp.metadata['description'] = ds['description']
+    dp.metadata['countryCode'] = ds['territories']
+    dp.metadata['license'] =  "ODbL-1.0"
+    dp.metadata['profiles'] = {'fiscal': '*','tabular': '*'}
+    dp.metadata['resources'] = [{}]
+    resource = dp.resources[0]
+    resource.metadata['name'] = 'dataset'
+    resource.metadata['path'] = 'dataset.csv'
+    
+    # Infer schema of dataset.csv file
+    with io.open(basepath + '/dataset.csv') as stream:
+        headers = stream.readline().rstrip('\n').split(',')
+        values = csv.reader(stream)
+        schema = infer(headers, values)
+        resource.metadata['schema'] = schema
 
+    # Translate mapping
+    dp.metadata['mapping'] = transform_dataset(ds)
+    return dp
+    
 def list_datasets():
     for name in os.listdir(DIR):
         ds_dir = os.path.join(DIR, name)
-        with open(os.path.join(ds_dir, 'dataset.json'), 'rb') as fh:
-            meta = json.load(fh)
-            yield ds_dir, meta
+        if os.path.isdir(ds_dir):
+            with open(os.path.join(ds_dir, 'dataset.json'), 'r') as fh:
+                meta = json.load(fh)
+                yield ds_dir, meta
 
 
 def transform_dataset(source):
@@ -25,58 +55,50 @@ def transform_dataset(source):
         norm_name = slug(name)
         if src.get('type') == 'measure':
             model['measures'][norm_name] = {
-                'label': src['label'],
-                'description': src['description'] or '',
-                'column': norm_name
+                'source': norm_name,
+                'currency': source.get('currency')
             }
             continue
 
         dim = {
-            'label': src['label'],
-            'description': src['description'] or '',
-            'label_attribute': 'label',
-            'key_attribute': 'label',
             'attributes': {}
         }
         if src.get('type') == 'date':
             dim['attributes'] = {
                 'label': {
-                    'label': 'Label',
-                    'column': norm_name + '_name'
+                    'source': norm_name + '_name'
                 },
                 'year': {
-                    'label': 'Year',
-                    'column': norm_name + '_year'
+                    'source': norm_name + '_year'
                 },
                 'month': {
-                    'label': 'Month',
-                    'column': norm_name + '_month'
+                    'source': norm_name + '_month'
                 },
                 'day': {
-                    'label': 'Day',
-                    'column': norm_name + '_day'
+                    'source': norm_name + '_day'
                 },
                 'yearmonth': {
-                    'label': 'Year/Month',
-                    'column': norm_name + '_yearmonth'
+                    'source': norm_name + '_yearmonth'
                 }
             }
+            dim['primaryKey'] = norm_name  + '_name'
         if src.get('type') == 'attribute':
             dim['attributes'] = {
                 'label': {
-                    'label': 'Label',
-                    'column': norm_name
+                    'source': norm_name
                 }
             }
+            dim['primaryKey'] = norm_name
         if src.get('type') == 'compound':
             for name, spec in src['attributes'].items():
                 attr = slug(name)
                 dim['attributes'][attr] = {
-                    'label': spec['column'],
-                    'column': norm_name + '_' + attr
+                    'source': norm_name + '_' + attr
                 }
+                if attr == 'label':
+                    dim['attributes'][attr]['labelfor'] = norm_name + '_name'
             if 'name' in dim['attributes']:
-                dim['key_attribute'] = 'name'
+                dim['primaryKey'] = 'name'
         model['dimensions'][norm_name] = dim
     return model
 
@@ -84,5 +106,8 @@ def transform_dataset(source):
 if __name__ == '__main__':
     for dir, ds in list_datasets():
         data = transform_dataset(ds)
-        with open(os.path.join(dir, 'model.json'), 'wb') as fh:
-            json.dump(data, fh, indent=2)
+        dp = create_datapackage(ds)
+        # Write datapackage.json
+        with open(os.path.join(dir, 'datapackage.json'), 'w') as fh:
+            fh.write(dp.to_json())
+
