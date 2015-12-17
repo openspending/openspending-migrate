@@ -32,7 +32,7 @@ def create_datapackage(ds):
     with io.open(basepath + '/dataset.csv') as stream:
         headers = stream.readline().rstrip('\n').split(',')
         values = csv.reader(stream)
-        schema = infer(headers, values)
+        schema = infer(headers, values, row_limit=1000)
         resource.metadata['schema'] = schema
 
     # Translate mapping
