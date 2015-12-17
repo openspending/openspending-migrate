@@ -19,7 +19,8 @@ def create_datapackage(ds):
     dp.metadata['name'] = ds['name']
     dp.metadata['title'] = ds['label']
     dp.metadata['description'] = ds['description']
-    dp.metadata['countryCode'] = ds['territories']
+    if ds['territories']:
+        dp.metadata['countryCode'] = ds['territories']
     dp.metadata['license'] =  "ODbL-1.0"
     dp.metadata['profiles'] = {'fiscal': '*','tabular': '*'}
     dp.metadata['resources'] = [{}]
