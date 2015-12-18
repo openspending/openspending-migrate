@@ -81,14 +81,15 @@ def transform_dataset(source):
                     'source': norm_name + '_yearmonth'
                 } 
             }
-            dim['primaryKey'] = norm_name  + '_name'
+            dim['primaryKey'] = 'label'
+            dim['dimensionType'] = 'datetime'
         if src.get('type') == 'attribute':
             dim['attributes'] = {
                 'label': {
                     'source': norm_name
                 }
             }
-            dim['primaryKey'] = norm_name
+            dim['primaryKey'] = 'label'
         if src.get('type') == 'compound':
             for name, spec in src['attributes'].items():
                 attr = slug(name)
@@ -99,6 +100,9 @@ def transform_dataset(source):
                     dim['attributes'][attr]['labelfor'] = norm_name + '_name'
             if 'name' in dim['attributes']:
                 dim['primaryKey'] = 'name'
+        # content
+        if norm_name == 'from' or norm_name == 'to':
+            dim['dimensionType'] = 'entity'
         model['dimensions'][norm_name] = dim
     return model
 
