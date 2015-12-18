@@ -8,14 +8,13 @@ from jsontableschema import infer
 
 DIR = 'test_exports'
 
-
 def slug(name):
     return slugify(name, sep='_')
 
 def create_datapackage(ds):
     # Create datapackage based on dataset.json
     dp = datapackage.DataPackage()
-    basepath = 'test_exports/{}'.format(ds['name'])
+    basepath = '{0}/{1}'.format(DIR,ds['name'])
     dp.metadata['name'] = ds['name']
     dp.metadata['title'] = ds['label']
     dp.metadata['description'] = ds['description']
@@ -80,7 +79,7 @@ def transform_dataset(source):
                 },
                 'yearmonth': {
                     'source': norm_name + '_yearmonth'
-                }
+                } 
             }
             dim['primaryKey'] = norm_name  + '_name'
         if src.get('type') == 'attribute':
@@ -106,9 +105,11 @@ def transform_dataset(source):
 
 if __name__ == '__main__':
     for dir, ds in list_datasets():
-        data = transform_dataset(ds)
-        dp = create_datapackage(ds)
-        # Write datapackage.json
-        with open(os.path.join(dir, 'datapackage.json'), 'w') as fh:
-            fh.write(dp.to_json())
-
+        if os.path.exists((os.path.join(dir, 'dataset.csv'))):
+            dp = create_datapackage(ds)
+            # Write datapackage.json
+            with open(os.path.join(dir, 'datapackage.json'), 'w') as fh:
+                fh.write(dp.to_json())
+        else:
+            print(ds.get('name'))
+                        
