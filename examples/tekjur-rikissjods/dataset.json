@@ -1,0 +1,103 @@
+{
+  "id": 1465,
+  "name": "tekjur-rikissjods",
+  "label": "Tekjur r\u00edkissj\u00f3\u00f0s",
+  "description": "Tekjur r\u00edkissj\u00f3\u00f0s skipt eftir m\u00e1nu\u00f0um og tekjuflokkum (og undirflokkum).\r\n\r\nByggir \u00e1 g\u00f6gnum fr\u00e1 Fj\u00e1rs\u00fdslu r\u00edkisins.\r\n\r\nGovernment revenues by month and revenue categories (with sub-categories).",
+  "currency": "ISK",
+  "default_time": null,
+  "data": {
+    "mapping": {
+      "amount": {
+        "description": null,
+        "datatype": "float",
+        "label": "Upph\u00e6\u00f0",
+        "default_value": "0",
+        "column": "Upph\u00e6\u00f0",
+        "dimension": "amount",
+        "type": "measure"
+      },
+      "category": {
+        "facet": true,
+        "key": true,
+        "label": "Tekjuflokkur",
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "Tekjuflokkur"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "Tekjuflokkur"
+          }
+        },
+        "description": "Revenue category",
+        "type": "compound",
+        "dimension": "category"
+      },
+      "subcategory": {
+        "facet": true,
+        "key": true,
+        "label": "Undirflokkur",
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "Undirflokkur"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "Undirflokkur"
+          }
+        },
+        "description": "Revenue sub-category",
+        "type": "compound",
+        "dimension": "subcategory"
+      },
+      "time": {
+        "facet": true,
+        "key": true,
+        "description": null,
+        "datatype": "date",
+        "label": "Dagsetning",
+        "format": null,
+        "default_value": "",
+        "column": "Dagsetning",
+        "dimension": "time",
+        "type": "date"
+      }
+    }
+  },
+  "private": false,
+  "entry_custom_html": null,
+  "created_at": "2013-04-12T14:03:13.000080",
+  "updated_at": "2014-02-21T21:40:49.578510",
+  "schema_version": null,
+  "ckan_uri": "",
+  "category": "other",
+  "serp_title": null,
+  "serp_teaser": null,
+  "languages": [
+    "is"
+  ],
+  "territories": [
+    "IS"
+  ],
+  "sources": [
+    {
+      "id": 2156,
+      "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-04-12T140000/2012-FjarsyslaRikisins-Tekjur-breytt.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"Tekjuflokkur\", \"Undirflokkur\", \"Upph\\u00e6\\u00f0\", \"Dagsetning\"]}",
+      "created_at": "2013-04-12T14:03:27.814686",
+      "dataset_id": 1465,
+      "creator_id": 844,
+      "updated_at": "2013-04-12T14:03:30.412756"
+    }
+  ],
+  "team": [
+    "tryggvib"
+  ],
+  "export_query": "SELECT \"tekjur-rikissjods__entry\".id AS \"openspending_id\", \"tekjur-rikissjods__entry\".\"amount\" AS \"amount\", \"tekjur-rikissjods__category\".\"name\" AS \"category_name\", \"tekjur-rikissjods__category\".\"label\" AS \"category_label\", \"tekjur-rikissjods__subcategory\".\"name\" AS \"subcategory_name\", \"tekjur-rikissjods__subcategory\".\"label\" AS \"subcategory_label\", \"tekjur-rikissjods__time\".\"name\" AS \"time_name\", \"tekjur-rikissjods__time\".\"year\" AS \"time_year\", \"tekjur-rikissjods__time\".\"month\" AS \"time_month\", \"tekjur-rikissjods__time\".\"day\" AS \"time_day\", \"tekjur-rikissjods__time\".\"week\" AS \"time_week\", \"tekjur-rikissjods__time\".\"yearmonth\" AS \"time_yearmonth\", \"tekjur-rikissjods__time\".\"quarter\" AS \"time_quarter\", \"tekjur-rikissjods__time\".name AS \"time\" FROM \"tekjur-rikissjods__entry\" LEFT JOIN \"tekjur-rikissjods__category\" ON \"tekjur-rikissjods__entry\".\"category_id\" = \"tekjur-rikissjods__category\".id LEFT JOIN \"tekjur-rikissjods__subcategory\" ON \"tekjur-rikissjods__entry\".\"subcategory_id\" = \"tekjur-rikissjods__subcategory\".id LEFT JOIN \"tekjur-rikissjods__time\" ON \"tekjur-rikissjods__entry\".\"time_id\" = \"tekjur-rikissjods__time\".id"
+}

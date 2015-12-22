@@ -1,0 +1,386 @@
+{
+  "id": 4906,
+  "name": "bosnia-herzegovina",
+  "label": "Bosnia and Herzegovina",
+  "description": "Aggregated expenditure of Bosnia and Herzegovina",
+  "currency": "BAM",
+  "default_time": null,
+  "data": {
+    "mapping": {
+      "Level": {
+        "facet": true,
+        "key": true,
+        "description": null,
+        "datatype": "string",
+        "label": "Level",
+        "default_value": "",
+        "column": "level",
+        "type": "attribute"
+      },
+      "Cofog3": {
+        "label": "Cofog3",
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "cofog3.code"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "cofog3.label"
+          }
+        },
+        "type": "compound",
+        "description": null
+      },
+      "Cofog2": {
+        "label": "Cofog2",
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "cofog2.code"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "cofog2.label"
+          }
+        },
+        "type": "compound",
+        "description": null
+      },
+      "from": {
+        "label": "From",
+        "facet": true,
+        "description": null,
+        "key": true,
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "title"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "title"
+          }
+        },
+        "type": "compound"
+      },
+      "Cofog1": {
+        "label": "Cofog1",
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "cofog1.code"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "cofog1.label"
+          }
+        },
+        "facet": true,
+        "type": "compound",
+        "description": null
+      },
+      "amount": {
+        "description": null,
+        "datatype": "float",
+        "label": "Amount",
+        "default_value": "",
+        "type": "measure",
+        "column": "amount"
+      },
+      "time": {
+        "facet": true,
+        "key": true,
+        "description": null,
+        "datatype": "date",
+        "label": "Time",
+        "format": null,
+        "default_value": "",
+        "column": "time",
+        "type": "date"
+      }
+    }
+  },
+  "private": false,
+  "entry_custom_html": null,
+  "created_at": "2015-01-22T12:10:02.448696",
+  "updated_at": "2015-04-08T10:40:33.976082",
+  "schema_version": null,
+  "ckan_uri": "",
+  "category": "spending",
+  "serp_title": null,
+  "serp_teaser": null,
+  "languages": [
+    "bs"
+  ],
+  "territories": [
+    "BA"
+  ],
+  "sources": [
+    {
+      "id": 11325,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/bih-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:10:24.143667",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:10:28.161908"
+    },
+    {
+      "id": 11326,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/federation-bih-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:14:37.272756",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:14:40.368192"
+    },
+    {
+      "id": 11327,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/republika-srpska-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:15:11.880700",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:15:14.413981"
+    },
+    {
+      "id": 11328,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/brcko-distrikt-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:15:45.555564",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:15:48.343590"
+    },
+    {
+      "id": 11329,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/bpk-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:16:18.505133",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:16:22.430532"
+    },
+    {
+      "id": 11330,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/hnk-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:16:57.632375",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:17:00.473894"
+    },
+    {
+      "id": 11331,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/k10-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:17:30.688460",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:17:33.353744"
+    },
+    {
+      "id": 11332,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/ks-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:18:16.439345",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:18:20.533356"
+    },
+    {
+      "id": 11333,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/pk-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:18:56.658747",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:19:00.564193"
+    },
+    {
+      "id": 11334,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/sbk-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:19:32.601436",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:19:36.608680"
+    },
+    {
+      "id": 11335,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/tk-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:20:10.608083",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:20:13.409313"
+    },
+    {
+      "id": 11336,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/usk-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:20:49.447252",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:20:52.655447"
+    },
+    {
+      "id": 11337,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/zedo-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:21:26.173956",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:21:28.439032"
+    },
+    {
+      "id": 11338,
+      "url": "https://raw.githubusercontent.com/tryggvib/bosnia-spending/master/data/zhk-spending-2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:22:08.309470",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:22:10.731760"
+    },
+    {
+      "id": 11339,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/zhk-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:26:35.462862",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:26:38.470488"
+    },
+    {
+      "id": 11340,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/zedo-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:28:59.785741",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:29:03.083119"
+    },
+    {
+      "id": 11341,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/usk-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:29:44.083110",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:29:47.140954"
+    },
+    {
+      "id": 11342,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/tk-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:30:59.804866",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:31:03.203545"
+    },
+    {
+      "id": 11344,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/pk-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:37:02.826047",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:37:05.550954"
+    },
+    {
+      "id": 11346,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/k10.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T12:38:16.161821",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T12:38:18.542800"
+    },
+    {
+      "id": 11349,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/sbk-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T13:40:52.625572",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T13:40:54.938060"
+    },
+    {
+      "id": 11350,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/fbih-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-01-22T13:42:13.036924",
+      "dataset_id": 4906,
+      "creator_id": 844,
+      "updated_at": "2015-01-22T13:42:16.902158"
+    },
+    {
+      "id": 11674,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/bd-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-02-11T10:15:20.633467",
+      "dataset_id": 4906,
+      "creator_id": 570,
+      "updated_at": "2015-02-11T10:15:23.371711"
+    },
+    {
+      "id": 11675,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/ks-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-02-11T10:19:19.938279",
+      "dataset_id": 4906,
+      "creator_id": 570,
+      "updated_at": "2015-02-11T10:19:23.430026"
+    },
+    {
+      "id": 11676,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/hnk-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-02-11T10:19:42.239201",
+      "dataset_id": 4906,
+      "creator_id": 570,
+      "updated_at": "2015-02-11T10:19:45.550677"
+    },
+    {
+      "id": 11679,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/bpk-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-02-11T12:59:31.130386",
+      "dataset_id": 4906,
+      "creator_id": 570,
+      "updated_at": "2015-02-11T12:59:34.543675"
+    },
+    {
+      "id": 11908,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/opstine.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\"]}",
+      "created_at": "2015-03-03T14:47:29.075303",
+      "dataset_id": 4906,
+      "creator_id": 570,
+      "updated_at": "2015-03-03T14:47:32.549483"
+    },
+    {
+      "id": 12364,
+      "url": "https://raw.githubusercontent.com/Sunbless/bh-budzeti.ba/master/rs-2013.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"title\", \"amount\", \"time\", \"cofog1.code\", \"cofog1.label\", \"cofog2.code\", \"cofog2.label\", \"cofog3.code\", \"cofog3.label\", \"level\", \"\"]}",
+      "created_at": "2015-04-08T10:39:19.539353",
+      "dataset_id": 4906,
+      "creator_id": 570,
+      "updated_at": "2015-04-08T10:39:22.917972"
+    }
+  ],
+  "team": [
+    "Sunbless",
+    "tryggvib"
+  ],
+  "export_query": "SELECT \"bosnia-herzegovina__entry\".id AS \"openspending_id\", \"bosnia-herzegovina__entry\".\"Level\" AS \"level\", \"bosnia-herzegovina__Cofog3\".\"name\" AS \"cofog3_name\", \"bosnia-herzegovina__Cofog3\".\"label\" AS \"cofog3_label\", \"bosnia-herzegovina__Cofog2\".\"name\" AS \"cofog2_name\", \"bosnia-herzegovina__Cofog2\".\"label\" AS \"cofog2_label\", \"bosnia-herzegovina__from\".\"name\" AS \"from_name\", \"bosnia-herzegovina__from\".\"label\" AS \"from_label\", \"bosnia-herzegovina__Cofog1\".\"name\" AS \"cofog1_name\", \"bosnia-herzegovina__Cofog1\".\"label\" AS \"cofog1_label\", \"bosnia-herzegovina__entry\".\"amount\" AS \"amount\", \"bosnia-herzegovina__time\".\"name\" AS \"time_name\", \"bosnia-herzegovina__time\".\"year\" AS \"time_year\", \"bosnia-herzegovina__time\".\"month\" AS \"time_month\", \"bosnia-herzegovina__time\".\"day\" AS \"time_day\", \"bosnia-herzegovina__time\".\"week\" AS \"time_week\", \"bosnia-herzegovina__time\".\"yearmonth\" AS \"time_yearmonth\", \"bosnia-herzegovina__time\".\"quarter\" AS \"time_quarter\", \"bosnia-herzegovina__time\".name AS \"time\" FROM \"bosnia-herzegovina__entry\" LEFT JOIN \"bosnia-herzegovina__Cofog3\" ON \"bosnia-herzegovina__entry\".\"Cofog3_id\" = \"bosnia-herzegovina__Cofog3\".id LEFT JOIN \"bosnia-herzegovina__Cofog2\" ON \"bosnia-herzegovina__entry\".\"Cofog2_id\" = \"bosnia-herzegovina__Cofog2\".id LEFT JOIN \"bosnia-herzegovina__from\" ON \"bosnia-herzegovina__entry\".\"from_id\" = \"bosnia-herzegovina__from\".id LEFT JOIN \"bosnia-herzegovina__Cofog1\" ON \"bosnia-herzegovina__entry\".\"Cofog1_id\" = \"bosnia-herzegovina__Cofog1\".id LEFT JOIN \"bosnia-herzegovina__time\" ON \"bosnia-herzegovina__entry\".\"time_id\" = \"bosnia-herzegovina__time\".id"
+}

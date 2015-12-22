@@ -1,0 +1,355 @@
+{
+  "id": 1,
+  "name": "ukgov-finances-cra",
+  "label": "UK Country Regional Analysis",
+  "description": "The Country Regional Analysis published by HM Treasury (2010 version).\r\n\r\nSource data can be found in the [CKAN data package](http://ckan.net/package/ukgov-finances-cra)",
+  "currency": "GBP",
+  "default_time": "2010",
+  "data": {
+    "mapping": {
+      "cofog2": {
+        "attributes": {
+          "color": {
+            "datatype": "string",
+            "default_value": "#555555",
+            "column": "wdmmg_cofog2_color"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "Unknown",
+            "column": "cofog_level2_name"
+          },
+          "name": {
+            "datatype": "string",
+            "default_value": "unknown",
+            "column": "cofog_level2_code"
+          }
+        },
+        "description": "Classification Of Function Of Government, level 2",
+        "taxonomy": "cofog-2",
+        "type": "compound",
+        "label": "COFOG level 2"
+      },
+      "to": {
+        "attributes": {
+          "label": {
+            "end_column": null,
+            "constant": "Society (the General Public)",
+            "datatype": "constant",
+            "column": null,
+            "facet": false
+          },
+          "description": {
+            "end_column": null,
+            "constant": "A dummy entity to be the recipient of final government spending.",
+            "datatype": "constant",
+            "column": null,
+            "facet": false
+          },
+          "name": {
+            "end_column": null,
+            "constant": "society",
+            "datatype": "constant",
+            "column": null,
+            "facet": false
+          }
+        },
+        "description": "The entity that the money was paid to",
+        "type": "compound",
+        "label": "Paid to"
+      },
+      "from": {
+        "attributes": {
+          "gov_department": {
+            "end_column": null,
+            "constant": "true",
+            "datatype": "constant",
+            "column": null,
+            "facet": false
+          },
+          "label": {
+            "end_column": null,
+            "constant": null,
+            "datatype": "string",
+            "column": "dept_name",
+            "facet": false
+          },
+          "name": {
+            "end_column": null,
+            "constant": null,
+            "datatype": "string",
+            "column": "dept_code",
+            "facet": false
+          }
+        },
+        "description": "The entity that the money was paid from",
+        "type": "compound",
+        "label": "Paid from"
+      },
+      "amount": {
+        "type": "measure",
+        "description": null,
+        "datatype": "float",
+        "label": null,
+        "column": "amount"
+      },
+      "cofog3": {
+        "attributes": {
+          "color": {
+            "datatype": "string",
+            "default_value": "#555555",
+            "column": "wdmmg_cofog3_color"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "Unknown",
+            "column": "cofog_level3_name"
+          },
+          "name": {
+            "datatype": "string",
+            "default_value": "unknown",
+            "column": "cofog_level3_code"
+          }
+        },
+        "description": "Classification Of Function Of Government, level 3",
+        "taxonomy": "cofog-3",
+        "type": "compound",
+        "label": "COFOG level 3"
+      },
+      "hmt2": {
+        "attributes": {
+          "label": {
+            "datatype": "string",
+            "column": "hmt_subfunctional"
+          },
+          "name": {
+            "datatype": "id",
+            "column": "hmt_subfunctional"
+          }
+        },
+        "description": "HMT Sub-functional Classification (Treasury equivalent of COFOG2)",
+        "taxonomy": "cra-hmt-level2",
+        "type": "compound",
+        "label": "HMT Sub-function"
+      },
+      "unique_id": {
+        "key": true,
+        "label": "Unique ID",
+        "description": "Dataset-specific unique identifier for transaction",
+        "datatype": "string",
+        "column": "unique_id",
+        "type": "attribute"
+      },
+      "cg_lg_or_pc": {
+        "attributes": {
+          "label": {
+            "datatype": "string",
+            "column": "cg_lg_or_pc"
+          },
+          "name": {
+            "datatype": "id",
+            "column": "cg_lg_or_pc"
+          }
+        },
+        "description": "Central government, local government or public corporation",
+        "taxonomy": "cra-cg_lg_or_pc",
+        "type": "compound",
+        "label": "CG, LG or PC"
+      },
+      "pog": {
+        "attributes": {
+          "label": {
+            "datatype": "string",
+            "column": "pog_alias"
+          },
+          "name": {
+            "datatype": "string",
+            "column": "pog"
+          }
+        },
+        "type": "compound",
+        "taxonomy": "cra-pog",
+        "label": "Programme Object Group"
+      },
+      "hmt1": {
+        "attributes": {
+          "label": {
+            "datatype": "string",
+            "column": "hmt_functional"
+          },
+          "name": {
+            "datatype": "id",
+            "column": "hmt_functional"
+          }
+        },
+        "description": "HMT Functional Classification (Treasury equivalent of COFOG1)",
+        "taxonomy": "cra-hmt-level1",
+        "type": "compound",
+        "label": "HMT Function"
+      },
+      "time": {
+        "type": "date",
+        "description": "The accounting period in which the spending happened",
+        "datatype": "date",
+        "label": "Tax year",
+        "column": "tax_year"
+      },
+      "cap_or_cur": {
+        "attributes": {
+          "label": {
+            "datatype": "string",
+            "column": "cap_or_cur"
+          },
+          "name": {
+            "datatype": "id",
+            "column": "cap_or_cur"
+          }
+        },
+        "description": "Capital (one-off investment) or Current (on-going running costs)",
+        "taxonomy": "cra-cap_or_cur",
+        "type": "compound",
+        "label": "Capital/current"
+      },
+      "region": {
+        "attributes": {
+          "label": {
+            "datatype": "string",
+            "column": "nuts_region"
+          },
+          "name": {
+            "datatype": "id",
+            "column": "nuts_region"
+          }
+        },
+        "description": "Geographical (NUTS) area for which money was spent",
+        "taxonomy": "cra-region",
+        "type": "compound",
+        "label": "Geographic region"
+      },
+      "cofog1": {
+        "attributes": {
+          "color": {
+            "datatype": "string",
+            "default_value": "#555555",
+            "column": "wdmmg_cofog1_color"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "Unknown",
+            "column": "cofog_level1_name"
+          },
+          "name": {
+            "datatype": "string",
+            "default_value": "unknown",
+            "column": "cofog_level1_code"
+          }
+        },
+        "description": "Classification Of Function Of Government, level 1",
+        "taxonomy": "cofog-1",
+        "type": "compound",
+        "label": "COFOG level 1"
+      }
+    },
+    "views": [
+      {
+        "dimension": "dataset",
+        "label": "Spending by primary function",
+        "breakdown": "cofog1",
+        "name": "default",
+        "filters": {
+          "name": "ukgov-finances-cra"
+        },
+        "entity": "dataset"
+      },
+      {
+        "dimension": "cofog1",
+        "label": "Spending by secondary function",
+        "breakdown": "cofog2",
+        "name": "default",
+        "filters": {
+          "taxonomy": "cofog-1"
+        },
+        "entity": "classifier"
+      },
+      {
+        "dimension": "cofog2",
+        "label": "Spending by tertiary function",
+        "breakdown": "cofog3",
+        "name": "default",
+        "filters": {
+          "taxonomy": "cofog-2"
+        },
+        "entity": "classifier"
+      },
+      {
+        "dimension": "dataset",
+        "label": "Spending by government department",
+        "breakdown": "from",
+        "name": "department",
+        "filters": {
+          "name": "ukgov-finances-cra"
+        },
+        "entity": "dataset"
+      },
+      {
+        "dimension": "dataset",
+        "label": "Spending by region",
+        "breakdown": "region",
+        "name": "region",
+        "filters": {
+          "name": "ukgov-finances-cra"
+        },
+        "entity": "dataset"
+      },
+      {
+        "dimension": "cofog1",
+        "label": "Spending by region (within primary function)",
+        "breakdown": "region",
+        "name": "region",
+        "filters": {
+          "taxonomy": "cofog-1"
+        },
+        "entity": "classifier"
+      },
+      {
+        "dimension": "cofog2",
+        "label": "Spending by region (within secondary function)",
+        "breakdown": "region",
+        "name": "region",
+        "filters": {
+          "taxonomy": "cofog-2"
+        },
+        "entity": "classifier"
+      },
+      {
+        "dimension": "from",
+        "label": "Spending by region (within department)",
+        "breakdown": "region",
+        "name": "default",
+        "filters": {
+          "gov_department": "true",
+          "taxonomy": "entity"
+        },
+        "entity": "entity"
+      }
+    ]
+  },
+  "private": false,
+  "entry_custom_html": null,
+  "created_at": "2011-12-09T11:53:06.332389",
+  "updated_at": "2014-02-21T22:08:29.037267",
+  "schema_version": "2011-12-07",
+  "ckan_uri": null,
+  "category": "budget",
+  "serp_title": null,
+  "serp_teaser": null,
+  "languages": [
+    "en"
+  ],
+  "territories": [
+    "GB"
+  ],
+  "sources": [],
+  "team": [],
+  "export_query": "SELECT \"ukgov-finances-cra__entry\".id AS \"openspending_id\", \"ukgov-finances-cra__cofog2\".\"color\" AS \"cofog2_color\", \"ukgov-finances-cra__cofog2\".\"label\" AS \"cofog2_label\", \"ukgov-finances-cra__cofog2\".\"name\" AS \"cofog2_name\", \"ukgov-finances-cra__to\".\"label\" AS \"to_label\", \"ukgov-finances-cra__to\".\"description\" AS \"to_description\", \"ukgov-finances-cra__to\".\"name\" AS \"to_name\", \"ukgov-finances-cra__from\".\"gov_department\" AS \"from_gov_department\", \"ukgov-finances-cra__from\".\"label\" AS \"from_label\", \"ukgov-finances-cra__from\".\"name\" AS \"from_name\", \"ukgov-finances-cra__entry\".\"amount\" AS \"amount\", \"ukgov-finances-cra__cofog3\".\"color\" AS \"cofog3_color\", \"ukgov-finances-cra__cofog3\".\"label\" AS \"cofog3_label\", \"ukgov-finances-cra__cofog3\".\"name\" AS \"cofog3_name\", \"ukgov-finances-cra__hmt2\".\"label\" AS \"hmt2_label\", \"ukgov-finances-cra__hmt2\".\"name\" AS \"hmt2_name\", \"ukgov-finances-cra__entry\".\"unique_id\" AS \"unique_id\", \"ukgov-finances-cra__cg_lg_or_pc\".\"label\" AS \"cg_lg_or_pc_label\", \"ukgov-finances-cra__cg_lg_or_pc\".\"name\" AS \"cg_lg_or_pc_name\", \"ukgov-finances-cra__pog\".\"label\" AS \"pog_label\", \"ukgov-finances-cra__pog\".\"name\" AS \"pog_name\", \"ukgov-finances-cra__hmt1\".\"label\" AS \"hmt1_label\", \"ukgov-finances-cra__hmt1\".\"name\" AS \"hmt1_name\", \"ukgov-finances-cra__time\".\"name\" AS \"time_name\", \"ukgov-finances-cra__time\".\"year\" AS \"time_year\", \"ukgov-finances-cra__time\".\"month\" AS \"time_month\", \"ukgov-finances-cra__time\".\"day\" AS \"time_day\", \"ukgov-finances-cra__time\".\"week\" AS \"time_week\", \"ukgov-finances-cra__time\".\"yearmonth\" AS \"time_yearmonth\", \"ukgov-finances-cra__time\".\"quarter\" AS \"time_quarter\", \"ukgov-finances-cra__time\".name AS \"time\", \"ukgov-finances-cra__cap_or_cur\".\"label\" AS \"cap_or_cur_label\", \"ukgov-finances-cra__cap_or_cur\".\"name\" AS \"cap_or_cur_name\", \"ukgov-finances-cra__region\".\"label\" AS \"region_label\", \"ukgov-finances-cra__region\".\"name\" AS \"region_name\", \"ukgov-finances-cra__cofog1\".\"color\" AS \"cofog1_color\", \"ukgov-finances-cra__cofog1\".\"label\" AS \"cofog1_label\", \"ukgov-finances-cra__cofog1\".\"name\" AS \"cofog1_name\" FROM \"ukgov-finances-cra__entry\" LEFT JOIN \"ukgov-finances-cra__cofog2\" ON \"ukgov-finances-cra__entry\".\"cofog2_id\" = \"ukgov-finances-cra__cofog2\".id LEFT JOIN \"ukgov-finances-cra__to\" ON \"ukgov-finances-cra__entry\".\"to_id\" = \"ukgov-finances-cra__to\".id LEFT JOIN \"ukgov-finances-cra__from\" ON \"ukgov-finances-cra__entry\".\"from_id\" = \"ukgov-finances-cra__from\".id LEFT JOIN \"ukgov-finances-cra__cofog3\" ON \"ukgov-finances-cra__entry\".\"cofog3_id\" = \"ukgov-finances-cra__cofog3\".id LEFT JOIN \"ukgov-finances-cra__hmt2\" ON \"ukgov-finances-cra__entry\".\"hmt2_id\" = \"ukgov-finances-cra__hmt2\".id LEFT JOIN \"ukgov-finances-cra__cg_lg_or_pc\" ON \"ukgov-finances-cra__entry\".\"cg_lg_or_pc_id\" = \"ukgov-finances-cra__cg_lg_or_pc\".id LEFT JOIN \"ukgov-finances-cra__pog\" ON \"ukgov-finances-cra__entry\".\"pog_id\" = \"ukgov-finances-cra__pog\".id LEFT JOIN \"ukgov-finances-cra__hmt1\" ON \"ukgov-finances-cra__entry\".\"hmt1_id\" = \"ukgov-finances-cra__hmt1\".id LEFT JOIN \"ukgov-finances-cra__time\" ON \"ukgov-finances-cra__entry\".\"time_id\" = \"ukgov-finances-cra__time\".id LEFT JOIN \"ukgov-finances-cra__cap_or_cur\" ON \"ukgov-finances-cra__entry\".\"cap_or_cur_id\" = \"ukgov-finances-cra__cap_or_cur\".id LEFT JOIN \"ukgov-finances-cra__region\" ON \"ukgov-finances-cra__entry\".\"region_id\" = \"ukgov-finances-cra__region\".id LEFT JOIN \"ukgov-finances-cra__cofog1\" ON \"ukgov-finances-cra__entry\".\"cofog1_id\" = \"ukgov-finances-cra__cofog1\".id"
+}

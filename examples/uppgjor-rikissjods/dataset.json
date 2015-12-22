@@ -1,0 +1,130 @@
+{
+  "id": 1457,
+  "name": "uppgjor-rikissjods",
+  "label": "Uppgj\u00f6r r\u00edkissj\u00f3\u00f0s",
+  "description": "Gj\u00f6ld stofnana a\u00f0 fr\u00e1dregnum s\u00e9rtekjum. Flokka\u00f0 eftir r\u00e1\u00f0uneytum. Skipt upp eftir \u00e1rsfj\u00f3r\u00f0ungum.\r\n\r\nEnglish: Net public spending. Categorised by ministries. Split by quarters.",
+  "currency": "ISK",
+  "default_time": "2012",
+  "data": {
+    "mapping": {
+      "amount": {
+        "description": null,
+        "datatype": "float",
+        "label": "Upph\u00e6\u00f0",
+        "default_value": "0",
+        "column": "Gj\u00f6ld - s\u00e9rtekjur",
+        "dimension": "amount",
+        "type": "measure"
+      },
+      "to": {
+        "facet": true,
+        "key": true,
+        "label": "Stofnun",
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "Stofnun"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "Stofnun"
+          }
+        },
+        "description": "Receiving public agency",
+        "type": "compound",
+        "dimension": "to"
+      },
+      "from": {
+        "facet": true,
+        "key": true,
+        "label": "R\u00e1\u00f0uneyti",
+        "attributes": {
+          "name": {
+            "datatype": "id",
+            "default_value": "",
+            "column": "Au\u00f0kenni r\u00e1\u00f0uneytis"
+          },
+          "label": {
+            "datatype": "string",
+            "default_value": "",
+            "column": "R\u00e1\u00f0uneyti"
+          }
+        },
+        "description": "Responsible ministry (entity)",
+        "type": "compound",
+        "dimension": "from"
+      },
+      "time": {
+        "facet": true,
+        "key": true,
+        "description": null,
+        "datatype": "date",
+        "label": "Dagsetning",
+        "format": null,
+        "default_value": "",
+        "column": "Lokadagsetning \u00e1rsfj\u00f3r\u00f0ungs",
+        "dimension": "time",
+        "type": "date"
+      }
+    }
+  },
+  "private": false,
+  "entry_custom_html": null,
+  "created_at": "2013-04-11T15:10:51.224744",
+  "updated_at": "2014-02-22T04:03:33.857424",
+  "schema_version": null,
+  "ckan_uri": "",
+  "category": "spending",
+  "serp_title": null,
+  "serp_teaser": null,
+  "languages": [
+    "is"
+  ],
+  "territories": [
+    "IS"
+  ],
+  "sources": [
+    {
+      "id": 2145,
+      "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-04-11T104150/2012-Arshlutauppgjor-Rekstrarreikningur-1-breytt.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"Au\\u00f0kenni r\\u00e1\\u00f0uneytis\", \"R\\u00e1\\u00f0uneyti\", \"Rasto\", \"Stofnun\", \"Gj\\u00f6ld - s\\u00e9rtekjur\", \"Lokadagsetning \\u00e1rsfj\\u00f3r\\u00f0ungs\"]}",
+      "created_at": "2013-04-11T15:11:21.964400",
+      "dataset_id": 1457,
+      "creator_id": 844,
+      "updated_at": "2013-04-11T15:11:25.500447"
+    },
+    {
+      "id": 2146,
+      "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-04-11T150305/2012-Arshlutauppgjor-Rekstrarreikningur-2-breytt.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"Au\\u00f0kenni r\\u00e1\\u00f0uneytis\", \"R\\u00e1\\u00f0uneyti\", \"Rasto\", \"Stofnun\", \"Gj\\u00f6ld - s\\u00e9rtekjur\", \"Lokadagsetning \\u00e1rsfj\\u00f3r\\u00f0ungs\"]}",
+      "created_at": "2013-04-11T15:14:47.417039",
+      "dataset_id": 1457,
+      "creator_id": 844,
+      "updated_at": "2013-04-11T15:14:50.407130"
+    },
+    {
+      "id": 2148,
+      "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-04-11T151902/2012-Arshlutauppgjor-Rekstrarreikningur-3-breytt.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"Au\\u00f0kenni r\\u00e1\\u00f0uneytis\", \"R\\u00e1\\u00f0uneyti\", \"Rasto\", \"Stofnun\", \"Gj\\u00f6ld - s\\u00e9rtekjur\", \"Lokadagsetning \\u00e1rsfj\\u00f3r\\u00f0ungs\"]}",
+      "created_at": "2013-04-11T15:19:36.209258",
+      "dataset_id": 1457,
+      "creator_id": 844,
+      "updated_at": "2013-04-11T15:19:39.389762"
+    },
+    {
+      "id": 2149,
+      "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-04-11T152656/2012-Arshlutauppgjor-Rekstrarreikningur-4-breytt.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"Au\\u00f0kenni r\\u00e1\\u00f0uneytis\", \"R\\u00e1\\u00f0uneyti\", \"Rasto\", \"Stofnun\", \"Gj\\u00f6ld - s\\u00e9rtekjur\", \"Lokadagsetning \\u00e1rsfj\\u00f3r\\u00f0ungs\"]}",
+      "created_at": "2013-04-11T15:27:36.259492",
+      "dataset_id": 1457,
+      "creator_id": 844,
+      "updated_at": "2013-04-11T15:27:39.347269"
+    }
+  ],
+  "team": [
+    "tryggvib"
+  ],
+  "export_query": "SELECT \"uppgjor-rikissjods__entry\".id AS \"openspending_id\", \"uppgjor-rikissjods__entry\".\"amount\" AS \"amount\", \"uppgjor-rikissjods__to\".\"name\" AS \"to_name\", \"uppgjor-rikissjods__to\".\"label\" AS \"to_label\", \"uppgjor-rikissjods__from\".\"name\" AS \"from_name\", \"uppgjor-rikissjods__from\".\"label\" AS \"from_label\", \"uppgjor-rikissjods__time\".\"name\" AS \"time_name\", \"uppgjor-rikissjods__time\".\"year\" AS \"time_year\", \"uppgjor-rikissjods__time\".\"month\" AS \"time_month\", \"uppgjor-rikissjods__time\".\"day\" AS \"time_day\", \"uppgjor-rikissjods__time\".\"week\" AS \"time_week\", \"uppgjor-rikissjods__time\".\"yearmonth\" AS \"time_yearmonth\", \"uppgjor-rikissjods__time\".\"quarter\" AS \"time_quarter\", \"uppgjor-rikissjods__time\".name AS \"time\" FROM \"uppgjor-rikissjods__entry\" LEFT JOIN \"uppgjor-rikissjods__to\" ON \"uppgjor-rikissjods__entry\".\"to_id\" = \"uppgjor-rikissjods__to\".id LEFT JOIN \"uppgjor-rikissjods__from\" ON \"uppgjor-rikissjods__entry\".\"from_id\" = \"uppgjor-rikissjods__from\".id LEFT JOIN \"uppgjor-rikissjods__time\" ON \"uppgjor-rikissjods__entry\".\"time_id\" = \"uppgjor-rikissjods__time\".id"
+}

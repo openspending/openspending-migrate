@@ -1,0 +1,228 @@
+{
+  "id": 2423,
+  "name": "tunisia_budget",
+  "label": "Tunisian budget",
+  "description": "Tunisian budget data from the World Bank.",
+  "currency": "TND",
+  "default_time": null,
+  "data": {
+    "mapping": {
+      "region": {
+        "description": null,
+        "datatype": "string",
+        "label": "REGION",
+        "default_value": "",
+        "column": "REGION",
+        "dimension": "region",
+        "type": "attribute"
+      },
+      "department": {
+        "facet": true,
+        "description": null,
+        "datatype": "string",
+        "label": "DEPARTMENT",
+        "default_value": "",
+        "column": "DEPARTMENT",
+        "dimension": "department",
+        "type": "attribute"
+      },
+      "fund": {
+        "description": null,
+        "datatype": "string",
+        "label": "FUND",
+        "default_value": "",
+        "column": "FUND",
+        "dimension": "fund",
+        "type": "attribute"
+      },
+      "ouvert": {
+        "description": null,
+        "datatype": "float",
+        "label": "OUVERT",
+        "default_value": "",
+        "column": "OUVERT",
+        "dimension": "ouvert",
+        "type": "measure"
+      },
+      "sous-paragraph": {
+        "description": null,
+        "datatype": "string",
+        "label": "SOUS-PARAGRAPH",
+        "default_value": "",
+        "column": "SOUS-PARAGRAPH",
+        "dimension": "sous-paragraph",
+        "type": "attribute"
+      },
+      "article": {
+        "description": null,
+        "datatype": "string",
+        "label": "ARTICLE",
+        "default_value": "",
+        "column": "ARTICLE",
+        "dimension": "article",
+        "type": "attribute"
+      },
+      "budtype": {
+        "description": null,
+        "datatype": "string",
+        "label": "BUDTYPE",
+        "default_value": "",
+        "column": "BUDTYPE",
+        "dimension": "budtype",
+        "type": "attribute"
+      },
+      "amount": {
+        "description": null,
+        "datatype": "float",
+        "label": "Amount",
+        "default_value": "",
+        "column": "BIDGET",
+        "dimension": "amount",
+        "type": "measure"
+      },
+      "partie": {
+        "description": null,
+        "datatype": "string",
+        "label": "PARTIE",
+        "default_value": "",
+        "column": "PARTIE",
+        "dimension": "partie",
+        "type": "attribute"
+      },
+      "ordonnance": {
+        "description": null,
+        "datatype": "float",
+        "label": "ORDONNANCE",
+        "default_value": "",
+        "column": "ORDONNANCE",
+        "dimension": "ordonnance",
+        "type": "measure"
+      },
+      "paragraph": {
+        "description": null,
+        "datatype": "string",
+        "label": "PARAGRAPH",
+        "default_value": "",
+        "column": "PARAGRAPH",
+        "dimension": "paragraph",
+        "type": "attribute"
+      },
+      "delegation": {
+        "description": null,
+        "datatype": "float",
+        "label": "DELEGATION",
+        "default_value": "",
+        "column": "DELEGATION",
+        "dimension": "delegation",
+        "type": "measure"
+      },
+      "titre": {
+        "description": null,
+        "datatype": "string",
+        "label": "TITRE",
+        "default_value": "",
+        "column": "TITRE",
+        "dimension": "titre",
+        "type": "attribute"
+      },
+      "central-delegation": {
+        "description": null,
+        "datatype": "string",
+        "label": "CENTRAL/DELEGATION",
+        "default_value": "",
+        "column": "CENTRAL/DELEGATION",
+        "dimension": "central-delegation",
+        "type": "attribute"
+      },
+      "unique-id": {
+        "key": true,
+        "description": null,
+        "datatype": "string",
+        "label": "Unique-id",
+        "default_value": "",
+        "column": "id",
+        "dimension": "unique-id",
+        "type": "attribute"
+      },
+      "time": {
+        "facet": true,
+        "key": true,
+        "description": null,
+        "datatype": "date",
+        "label": "Time",
+        "format": null,
+        "default_value": "",
+        "column": "YEAR",
+        "dimension": "time",
+        "type": "date"
+      }
+    }
+  },
+  "private": false,
+  "entry_custom_html": null,
+  "created_at": "2013-08-25T20:03:23.466245",
+  "updated_at": "2014-02-22T04:32:20.532405",
+  "schema_version": null,
+  "ckan_uri": "",
+  "category": "budget",
+  "serp_title": null,
+  "serp_teaser": null,
+  "languages": [
+    "ar",
+    "fr"
+  ],
+  "territories": [
+    "TN"
+  ],
+  "sources": [
+    {
+      "id": 3701,
+      "url": "http://tryggvib.pagekite.me/tunisia.budget.2008.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"<html><frameset cols=\\\"*\\\"><frame target=\\\"_top\\\" src=\\\"https://pagekite.net/offline/?&where=FE&proto=http&domain=tryggvib.pagekite.me\\\" /><noframes><h1>Sorry! (fe)</h1><p>The HTTP <a href=\\\"http://pagekite.net/\\\"><i>PageKite</i></a> for <b>tryggvib.pagekite.me</b> is unavailable at the moment.</p><p>Please try again later.</p><!--  --></noframes></frameset></html>\"]}",
+      "created_at": "2013-08-25T20:03:55.610479",
+      "dataset_id": 2423,
+      "creator_id": 844,
+      "updated_at": "2014-02-01T04:20:09.337039"
+    },
+    {
+      "id": 3702,
+      "url": "http://tryggvib.pagekite.me/tunisia.budget.2009.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"<html><frameset cols=\\\"*\\\"><frame target=\\\"_top\\\" src=\\\"https://pagekite.net/offline/?&where=FE&proto=http&domain=tryggvib.pagekite.me\\\" /><noframes><h1>Sorry! (fe)</h1><p>The HTTP <a href=\\\"http://pagekite.net/\\\"><i>PageKite</i></a> for <b>tryggvib.pagekite.me</b> is unavailable at the moment.</p><p>Please try again later.</p><!--  --></noframes></frameset></html>\"]}",
+      "created_at": "2013-08-25T20:15:19.112953",
+      "dataset_id": 2423,
+      "creator_id": 844,
+      "updated_at": "2014-02-01T04:20:14.236970"
+    },
+    {
+      "id": 3703,
+      "url": "http://tryggvib.pagekite.me/tunisia.budget.2010.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"<html><frameset cols=\\\"*\\\"><frame target=\\\"_top\\\" src=\\\"https://pagekite.net/offline/?&where=FE&proto=http&domain=tryggvib.pagekite.me\\\" /><noframes><h1>Sorry! (fe)</h1><p>The HTTP <a href=\\\"http://pagekite.net/\\\"><i>PageKite</i></a> for <b>tryggvib.pagekite.me</b> is unavailable at the moment.</p><p>Please try again later.</p><!--  --></noframes></frameset></html>\"]}",
+      "created_at": "2013-08-25T20:31:15.632918",
+      "dataset_id": 2423,
+      "creator_id": 844,
+      "updated_at": "2014-02-01T04:17:44.734384"
+    },
+    {
+      "id": 3704,
+      "url": "http://tryggvib.pagekite.me/tunisia.budget.2011.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"<html><frameset cols=\\\"*\\\"><frame target=\\\"_top\\\" src=\\\"https://pagekite.net/offline/?&where=FE&proto=http&domain=tryggvib.pagekite.me\\\" /><noframes><h1>Sorry! (fe)</h1><p>The HTTP <a href=\\\"http://pagekite.net/\\\"><i>PageKite</i></a> for <b>tryggvib.pagekite.me</b> is unavailable at the moment.</p><p>Please try again later.</p><!--  --></noframes></frameset></html>\"]}",
+      "created_at": "2013-08-25T20:44:07.768705",
+      "dataset_id": 2423,
+      "creator_id": 844,
+      "updated_at": "2014-02-01T04:33:17.004570"
+    },
+    {
+      "id": 3705,
+      "url": "http://tryggvib.pagekite.me/tunisia.budget.2012.csv",
+      "analysis": "{\"mapping\": {}, \"columns\": [\"<html><frameset cols=\\\"*\\\"><frame target=\\\"_top\\\" src=\\\"https://pagekite.net/offline/?&where=FE&proto=http&domain=tryggvib.pagekite.me\\\" /><noframes><h1>Sorry! (fe)</h1><p>The HTTP <a href=\\\"http://pagekite.net/\\\"><i>PageKite</i></a> for <b>tryggvib.pagekite.me</b> is unavailable at the moment.</p><p>Please try again later.</p><!--  --></noframes></frameset></html>\"]}",
+      "created_at": "2013-08-25T20:59:39.965934",
+      "dataset_id": 2423,
+      "creator_id": 844,
+      "updated_at": "2014-02-01T04:33:15.381286"
+    }
+  ],
+  "team": [
+    "tryggvib"
+  ],
+  "export_query": "SELECT \"tunisia_budget__entry\".id AS \"openspending_id\", \"tunisia_budget__entry\".\"region\" AS \"region\", \"tunisia_budget__entry\".\"department\" AS \"department\", \"tunisia_budget__entry\".\"fund\" AS \"fund\", \"tunisia_budget__entry\".\"ouvert\" AS \"ouvert\", \"tunisia_budget__entry\".\"sous-paragraph\" AS \"sous_paragraph\", \"tunisia_budget__entry\".\"article\" AS \"article\", \"tunisia_budget__entry\".\"budtype\" AS \"budtype\", \"tunisia_budget__entry\".\"amount\" AS \"amount\", \"tunisia_budget__entry\".\"partie\" AS \"partie\", \"tunisia_budget__entry\".\"ordonnance\" AS \"ordonnance\", \"tunisia_budget__entry\".\"paragraph\" AS \"paragraph\", \"tunisia_budget__entry\".\"delegation\" AS \"delegation\", \"tunisia_budget__entry\".\"titre\" AS \"titre\", \"tunisia_budget__entry\".\"central-delegation\" AS \"central_delegation\", \"tunisia_budget__entry\".\"unique-id\" AS \"unique_id\", \"tunisia_budget__time\".\"name\" AS \"time_name\", \"tunisia_budget__time\".\"year\" AS \"time_year\", \"tunisia_budget__time\".\"month\" AS \"time_month\", \"tunisia_budget__time\".\"day\" AS \"time_day\", \"tunisia_budget__time\".\"week\" AS \"time_week\", \"tunisia_budget__time\".\"yearmonth\" AS \"time_yearmonth\", \"tunisia_budget__time\".\"quarter\" AS \"time_quarter\", \"tunisia_budget__time\".name AS \"time\" FROM \"tunisia_budget__entry\" LEFT JOIN \"tunisia_budget__time\" ON \"tunisia_budget__entry\".\"time_id\" = \"tunisia_budget__time\".id"
+}

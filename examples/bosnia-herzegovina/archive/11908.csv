@@ -1,0 +1,305 @@
+title,amount,time,cofog1.code,cofog1.label,cofog2.code,cofog2.label,cofog3.code,cofog3.label,level
+Opšte javne usluge,2792748,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Nevesinje
+Javni red i sigurnost,198789,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Nevesinje
+Ekonomski poslovi,47839,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Nevesinje
+Zaštita životne sredine,294326,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Nevesinje
+Stambeni i zajednički poslovi,126969,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Nevesinje
+Zdravstvo,1000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Nevesinje
+"Rekreacija, kultura i religija",506082,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Nevesinje
+Obrazovanje,430976,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Nevesinje
+Socijalna zaštita,901098,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Nevesinje
+Ostalo,120031,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Nevesinje
+Otplata dugova,794917,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Nevesinje
+Opšte javne usluge,3793072,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Novi Grad
+Odbrana,1433,2013,02,Odbrana,02.2,Civilna zaštita,2.2.2,Civilna zaštita,Novi Grad
+Javni red i sigurnost,10324,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Novi Grad
+Ekonomski poslovi,137645,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Novi Grad
+Zaštita životne sredine,173114,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Novi Grad
+Stambeni i zajednički poslovi,2493251,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Novi Grad
+Zdravstvo,80262,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Novi Grad
+"Rekreacija, kultura i religija",713274,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Novi Grad
+Obrazovanje,715444,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Novi Grad
+Socijalna zaštita,1201717,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Novi Grad
+Ostalo,456450,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Novi Grad
+Otplata dugova,851832,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Novi Grad
+Opšte javne usluge,2298644,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Čelinac
+Javni red i sigurnost,57231,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Čelinac
+Ekonomski poslovi,101979,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Čelinac
+Zaštita životne sredine,92885,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Čelinac
+Stambeni i zajednički poslovi,139946,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Čelinac
+"Rekreacija, kultura i religija",237330,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Čelinac
+Obrazovanje,517847,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Čelinac
+Socijalna zaštita,1235440,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Čelinac
+Ostalo,494320,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Čelinac
+Otplata dugova,560678,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Čelinac
+Opšte javne usluge,4925148,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Grad Trebinje
+Javni red i sigurnost,863253,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Grad Trebinje
+Ekonomski poslovi,1399084,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Grad Trebinje
+Zaštita životne sredine,943065,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Grad Trebinje
+Stambeni i zajednički poslovi,1020223,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Grad Trebinje
+Zdravstvo,385583,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Grad Trebinje
+"Rekreacija, kultura i religija",2373827,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Grad Trebinje
+Obrazovanje,1823728,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Grad Trebinje
+Socijalna zaštita,2513886,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Grad Trebinje
+Ostalo,1921997,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Grad Trebinje
+Otplata dugova,2377613,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Grad Trebinje
+Opšte javne usluge,37988343,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Grad Banja Luka
+Odbrana,978062,2013,02,Odbrana,02.2,Civilna zaštita,2.2.2,Civilna zaštita,Grad Banja Luka
+Ekonomski poslovi,24041155,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Grad Banja Luka
+Zaštita životne sredine,5347871,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Grad Banja Luka
+Stambeni i zajednički poslovi,7015492,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Grad Banja Luka
+Zdravstvo,1231726,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Grad Banja Luka
+"Rekreacija, kultura i religija",6236218,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Grad Banja Luka
+Obrazovanje,12546711,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Grad Banja Luka
+Socijalna zaštita,15308549,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Grad Banja Luka
+Ostalo,14406942,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Grad Banja Luka
+Otplata dugova,49192666,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Grad Banja Luka
+Opšte javne usluge,3829458,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Bratunac
+Javni red i sigurnost,306270,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Bratunac
+Ekonomski poslovi,153462,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Bratunac
+Stambeni i zajednički poslovi,160551,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Bratunac
+Zdravstvo,52439,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Bratunac
+"Rekreacija, kultura i religija",186373,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Bratunac
+Obrazovanje,419833,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Bratunac
+Socijalna zaštita,743896,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Bratunac
+Ostalo,7890,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Bratunac
+Otplata dugova,257996,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Bratunac
+Opšte javne usluge,4915176.28,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Prnjavor
+Javni red i sigurnost,355967.23,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Prnjavor
+Ekonomski poslovi,743772.36,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Prnjavor
+Stambeni i zajednički poslovi,2270059.3,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Prnjavor
+Zdravstvo,143241.58,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Prnjavor
+"Rekreacija, kultura i religija",785839.69,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Prnjavor
+Obrazovanje,932285.9,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Prnjavor
+Socijalna zaštita,2255197.68,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Prnjavor
+Ostalo,407284.49,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Prnjavor
+Otplata dugova,1166300.43,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Prnjavor
+Opšte javne usluge,4571812,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Srbac
+Javni red i sigurnost,252557,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Srbac
+Stambeni i zajednički poslovi,216706,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Srbac
+"Rekreacija, kultura i religija",15750,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Srbac
+Obrazovanje,393799,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Srbac
+Socijalna zaštita,782333,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Srbac
+Ostalo,4099,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Srbac
+Otplata dugova,399764,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Srbac
+Opšte javne usluge,2694000,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Rogatica
+Javni red i sigurnost,278315,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Rogatica
+Ekonomski poslovi,563464,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Rogatica
+Zaštita životne sredine,295856,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Rogatica
+Stambeni i zajednički poslovi,284834,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Rogatica
+Zdravstvo,63548,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Rogatica
+"Rekreacija, kultura i religija",530898,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Rogatica
+Obrazovanje,385566,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Rogatica
+Socijalna zaštita,756414,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Rogatica
+Ostalo,111000,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Rogatica
+Otplata dugova,38340,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Rogatica
+Opšte javne usluge,5581568,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Srebrenica
+Stambeni i zajednički poslovi,465793,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Srebrenica
+Zdravstvo,47609,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Srebrenica
+"Rekreacija, kultura i religija",180887,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Srebrenica
+Obrazovanje,242772,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Srebrenica
+Socijalna zaštita,483900,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Srebrenica
+Ostalo,19117,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Srebrenica
+Otplata dugova,132250,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Srebrenica
+Opšte javne usluge,1846684,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Sokolac
+Ekonomski poslovi,1904521,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Sokolac
+Stambeni i zajednički poslovi,2023159,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Sokolac
+Zdravstvo,18000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Sokolac
+"Rekreacija, kultura i religija",717131,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Sokolac
+Obrazovanje,300179,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Sokolac
+Socijalna zaštita,622967,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Sokolac
+Ostalo,186743,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Sokolac
+Otplata dugova,1087064,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Sokolac
+Opšte javne usluge,4419649,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Bileća
+Odbrana,1370,2013,02,Odbrana,02.2,Civilna zaštita,2.2.2,Civilna zaštita,Bileća
+Javni red i sigurnost,414123,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Bileća
+Ekonomski poslovi,473055,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Bileća
+Zaštita životne sredine,124342,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Bileća
+Stambeni i zajednički poslovi,70458,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Bileća
+Zdravstvo,84000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Bileća
+"Rekreacija, kultura i religija",1125201,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Bileća
+Obrazovanje,962700,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Bileća
+Socijalna zaštita,1482804,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Bileća
+Ostalo,278029,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Bileća
+Otplata dugova,209957,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Bileća
+Opšte javne usluge,12105959,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Grad Bijeljina
+Ekonomski poslovi,3985803,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Grad Bijeljina
+Zaštita životne sredine,615576,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Grad Bijeljina
+Stambeni i zajednički poslovi,11563209,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Grad Bijeljina
+Zdravstvo,379507,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Grad Bijeljina
+"Rekreacija, kultura i religija",3573773,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Grad Bijeljina
+Obrazovanje,1887689,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Grad Bijeljina
+Socijalna zaštita,6361354,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Grad Bijeljina
+Ostalo,1333833,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Grad Bijeljina
+Otplata dugova,3712341,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Grad Bijeljina
+Opšte javne usluge,4960879,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Teslić
+Ekonomski poslovi,235489,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Teslić
+Stambeni i zajednički poslovi,3607001,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Teslić
+Zdravstvo,57809,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Teslić
+"Rekreacija, kultura i religija",494926,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Teslić
+Obrazovanje,736958,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Teslić
+Socijalna zaštita,3160443,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Teslić
+Ostalo,664072,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Teslić
+Otplata dugova,1069554,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Teslić
+Opšte javne usluge,6083614,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Modriča
+Ekonomski poslovi,392707,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Modriča
+Zaštita životne sredine,20287,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Modriča
+Stambeni i zajednički poslovi,641094,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Modriča
+Zdravstvo,110000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Modriča
+"Rekreacija, kultura i religija",414362,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Modriča
+Obrazovanje,966117,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Modriča
+Socijalna zaštita,944289,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Modriča
+Ostalo,41657,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Modriča
+Otplata dugova,475928,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Modriča
+Opšte javne usluge,2717993,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Mrkonjić Grad
+Ekonomski poslovi,496048,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Mrkonjić Grad
+Zaštita životne sredine,294034,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Mrkonjić Grad
+Stambeni i zajednički poslovi,794455,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Mrkonjić Grad
+Zdravstvo,87246,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Mrkonjić Grad
+"Rekreacija, kultura i religija",448322,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Mrkonjić Grad
+Obrazovanje,1204818,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Mrkonjić Grad
+Socijalna zaštita,1241178,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Mrkonjić Grad
+Ostalo,449659,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Mrkonjić Grad
+Otplata dugova,966022,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Mrkonjić Grad
+Opšte javne usluge,4743384,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Laktaši
+Javni red i sigurnost,585374,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Laktaši
+Ekonomski poslovi,474612,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Laktaši
+Zaštita životne sredine,60000,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Laktaši
+Stambeni i zajednički poslovi,1140553,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Laktaši
+Zdravstvo,51091,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Laktaši
+"Rekreacija, kultura i religija",1308087,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Laktaši
+Obrazovanje,1343526,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Laktaši
+Socijalna zaštita,2371815,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Laktaši
+Ostalo,55781,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Laktaši
+Otplata dugova,4818909,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Laktaši
+Opšte javne usluge,2587120,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Kotor Varoš
+Odbrana,150,2013,02,Odbrana,02.2,Civilna zaštita,2.2.2,Civilna zaštita,Kotor Varoš
+Javni red i sigurnost,86500,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Kotor Varoš
+Ekonomski poslovi,1072180,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Kotor Varoš
+Zaštita životne sredine,64448,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Kotor Varoš
+Stambeni i zajednički poslovi,337924,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Kotor Varoš
+Zdravstvo,71229,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Kotor Varoš
+"Rekreacija, kultura i religija",435673,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Kotor Varoš
+Obrazovanje,520211,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Kotor Varoš
+Socijalna zaštita,1187585,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Kotor Varoš
+Ostalo,10303.8,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Kotor Varoš
+Otplata dugova,311595.01,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Kotor Varoš
+Opšte javne usluge,3623836,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Kozarska Dubica
+Odbrana,5453,2013,02,Odbrana,02.2,Civilna zaštita,2.2.2,Civilna zaštita,Kozarska Dubica
+Javni red i sigurnost,342671,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Kozarska Dubica
+Ekonomski poslovi,302613,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Kozarska Dubica
+Stambeni i zajednički poslovi,5625108,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Kozarska Dubica
+Zdravstvo,15000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Kozarska Dubica
+"Rekreacija, kultura i religija",936328,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Kozarska Dubica
+Obrazovanje,519778,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Kozarska Dubica
+Socijalna zaštita,1836553,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Kozarska Dubica
+Ostalo,481883,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Kozarska Dubica
+Otplata dugova,2352800,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Kozarska Dubica
+Opšte javne usluge,3303899,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Brod
+Javni red i sigurnost,424851,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Brod
+Zaštita životne sredine,229507,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Brod
+Stambeni i zajednički poslovi,2267344,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Brod
+Zdravstvo,18874,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Brod
+"Rekreacija, kultura i religija",359628,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Brod
+Obrazovanje,898674,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Brod
+Socijalna zaštita,681608,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Brod
+Ostalo,58786,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Brod
+Otplata dugova,2898373,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Brod
+Opšte javne usluge,11949385,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Doboj
+Javni red i sigurnost,972241,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Doboj
+Ekonomski poslovi,3184653,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Doboj
+Stambeni i zajednički poslovi,1527956,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Doboj
+Zdravstvo,173377,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Doboj
+"Rekreacija, kultura i religija",3180780,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Doboj
+Obrazovanje,802756,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Doboj
+Socijalna zaštita,3566100,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Doboj
+Otplata dugova,5260583,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Doboj
+Opšte javne usluge,3507732,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Derventa
+Odbrana,2647,2013,02,Odbrana,02.2,Civilna zaštita,2.2.2,Civilna zaštita,Derventa
+Javni red i sigurnost,348598,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Derventa
+Ekonomski poslovi,383474,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Derventa
+Zaštita životne sredine,36000,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Derventa
+Stambeni i zajednički poslovi,2237561,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Derventa
+Zdravstvo,80830,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Derventa
+"Rekreacija, kultura i religija",969007,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Derventa
+Obrazovanje,1081586,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Derventa
+Socijalna zaštita,2416727,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Derventa
+Otplata dugova,347548,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Derventa
+Opšte javne usluge,3216181,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Foča
+Javni red i sigurnost,403,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Foča
+Ekonomski poslovi,440504,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Foča
+Zaštita životne sredine,47433,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Foča
+Stambeni i zajednički poslovi,1006848,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Foča
+Zdravstvo,41000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Foča
+"Rekreacija, kultura i religija",980155,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Foča
+Obrazovanje,778636,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Foča
+Socijalna zaštita,1473549,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Foča
+Ostalo,6376,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Foča
+Otplata dugova,264682,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Foča
+Opšte javne usluge,6413081,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Gacko
+Javni red i sigurnost,676903,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Gacko
+Ekonomski poslovi,285395,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Gacko
+Zdravstvo,69000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Gacko
+"Rekreacija, kultura i religija",1409606,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Gacko
+Obrazovanje,782954,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Gacko
+Socijalna zaštita,1281690,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Gacko
+Ostalo,19636,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Gacko
+Otplata dugova,472777,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Gacko
+Opšte javne usluge,5940662,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Gradiška
+Javni red i sigurnost,788496,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Gradiška
+Ekonomski poslovi,1063796,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Gradiška
+Zaštita životne sredine,11408,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Gradiška
+Stambeni i zajednički poslovi,3516901,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Gradiška
+Zdravstvo,113093,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Gradiška
+"Rekreacija, kultura i religija",1398541,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Gradiška
+Obrazovanje,2184961,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Gradiška
+Socijalna zaštita,3749599,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Gradiška
+Ostalo,200932.4,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Gradiška
+Otplata dugova,3270254.35,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Gradiška
+Opšte javne usluge,10391146,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Ugljevik
+Javni red i sigurnost,272279,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Ugljevik
+Ekonomski poslovi,83108,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Ugljevik
+Stambeni i zajednički poslovi,800,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Ugljevik
+"Rekreacija, kultura i religija",272153,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Ugljevik
+Obrazovanje,507947,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Ugljevik
+Socijalna zaštita,610249,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Ugljevik
+Ostalo,908541,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Ugljevik
+Otplata dugova,2175733,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Ugljevik
+Opšte javne usluge,3329557,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Pale
+Ekonomski poslovi,84719,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Pale
+Zaštita životne sredine,630031,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Pale
+Stambeni i zajednički poslovi,1375485,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Pale
+Zdravstvo,33300,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Pale
+"Rekreacija, kultura i religija",580185,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Pale
+Obrazovanje,333120,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Pale
+Socijalna zaštita,896800,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Pale
+Ostalo,811918,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Pale
+Otplata dugova,930994,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Pale
+Opšte javne usluge,7120805,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Zvornik
+Javni red i sigurnost,619248,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Zvornik
+Ekonomski poslovi,2586903,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Zvornik
+Zaštita životne sredine,19340,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Zvornik
+Stambeni i zajednički poslovi,1975810,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Zvornik
+Zdravstvo,32000,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Zvornik
+"Rekreacija, kultura i religija",845463,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Zvornik
+Obrazovanje,1412868,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Zvornik
+Socijalna zaštita,1941744,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Zvornik
+Ostalo,96680,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Zvornik
+Otplata dugova,514161,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Zvornik
+Opšte javne usluge,3379970,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Istočno Novo Sarajevo
+"Rekreacija, kultura i religija",592409,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Istočno Novo Sarajevo
+Obrazovanje,5900,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Istočno Novo Sarajevo
+Socijalna zaštita,214104,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Istočno Novo Sarajevo
+Ostalo,610024,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Istočno Novo Sarajevo
+Otplata dugova,1155816,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Istočno Novo Sarajevo
+Opšte javne usluge,4360790,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.1,Izvršna i zakonodavna organi,Grad Prijedor
+Javni red i sigurnost,910101,2013,03,Red i sigurnost,03.1,Policija,03.1.0,Policija,Grad Prijedor
+Ekonomski poslovi,6213989,2013,04,Ekonomija,04.9,Finansije,04.9.0,Finansijska administracija,Grad Prijedor
+Zaštita životne sredine,1988,2013,06,Naše ulice,06.6,Stambena administracija,06.6.0,Stambena administracija,Grad Prijedor
+Stambeni i zajednički poslovi,5714207,2013,06,Naše ulice,06.5,Razvoj zajednice,06.5.0,Razvoj zajednice,Grad Prijedor
+Zdravstvo,144302,2013,07,Zdravstvo,07.6,Zdravstvena administracija,07.6.0,Zdravstvena administracija,Grad Prijedor
+"Rekreacija, kultura i religija",3919338,2013,08,Kultura i religija,08.6,Administracija kulture i religije,08.6.0,Administracija kulture i religije,Grad Prijedor
+Obrazovanje,2944562,2013,09,Obrazovanje,09.8,Administracija obrazovanja,09.8.0,Administracija obrazovanja,Grad Prijedor
+Socijalna zaštita,3476103,2013,10,Penzije i socijalno,10.9,Administracija socijalne zaštite,10.9.0,Administracija socijalne zaštite,Grad Prijedor
+Ostalo,3258239,2013,01,Rad Vlade,01.1,Organi Vlasti,01.1.2,Fiskalne aktivnosti,Grad Prijedor
+Otplata dugova,1592994,2013,01,Rad Vlade,01.7,Izdvajanja za javni dug,01.7.0,Izdvajanja za javni dug,Grad Prijedor

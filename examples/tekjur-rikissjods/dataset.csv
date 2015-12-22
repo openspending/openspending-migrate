@@ -1,0 +1,481 @@
+openspending_id,amount,category_name,category_label,subcategory_name,subcategory_label,time_name,time_year,time_month,time_day,time_week,time_yearmonth,time_quarter,time
+83fc9ab4b1edd20f448cad0265c9b62500b52229,10062874206.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-01-31,2012,01,31,05,201201,0,2012-01-31
+1c0a33654ed41287d196473cb5db1680fafca907,8688966683.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-02-29,2012,02,29,09,201202,0,2012-02-29
+618ff06ffdfe9ec04e431ca5dc6667dbd08884b6,8745632703.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-03-31,2012,03,31,13,201203,0,2012-03-31
+9791d1fde4d89e26861084b8ca36bb470a9ce1e5,9137130809.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-04-30,2012,04,30,18,201204,1,2012-04-30
+fc572c94394beedbce58cb68113e8bd7e4701ea3,8207370564.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-05-31,2012,05,31,22,201205,1,2012-05-31
+5dc991ded384ad7fff7682d38ff4d2749ce7d20c,9695498971.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-06-30,2012,06,30,26,201206,1,2012-06-30
+64138691d12cb29ec2992aa140a91af8f4a28865,8579871504.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-07-31,2012,07,31,31,201207,1,2012-07-31
+7e348576e307ae95a5c10a1e4d1f8befe655c6f7,1340820907.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-08-31,2012,08,31,35,201208,2,2012-08-31
+f0a34d988c88cb8bca0429a04b03a4dc2b8f6e51,7678798529.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-09-30,2012,09,30,39,201209,2,2012-09-30
+c395f5b0ed77e603745cddeed1a6351194c8fd33,9697038885.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-10-31,2012,10,31,44,201210,2,2012-10-31
+67a916c438a070f5b56b0883892cf78e1eea24fa,9276795400.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-11-30,2012,11,30,48,201211,2,2012-11-30
+685e010b22fe6505a053e466291e9f350c80f90c,10501885577.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-einstaklingar,"Tekjuskattur, einstaklingar",2012-12-31,2012,12,31,53,201212,3,2012-12-31
+742a55b7680c52e93463d179ed9aae6e1556e932,393382036.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-01-31,2012,01,31,05,201201,0,2012-01-31
+0ccfa710a87a2314d32ff8bdac099c0a589cab8e,4336544568.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-02-29,2012,02,29,09,201202,0,2012-02-29
+09c18ad599a62f81456c3b7d47e57de608b1322d,2668048555.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-03-31,2012,03,31,13,201203,0,2012-03-31
+bfe8cc3640666ded3deaf9541efce6a7f762dc29,4489381262.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-04-30,2012,04,30,18,201204,1,2012-04-30
+25628ee99b33fb07bbabd1ac57eefbe104bb086f,1285651001.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-05-31,2012,05,31,22,201205,1,2012-05-31
+33e36279d5043bb5b6d6ffa0fb8ba6a651d05165,2417022573.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-06-30,2012,06,30,26,201206,1,2012-06-30
+806d7c25a25f1703c2221d5f5b6752eb40c796aa,2444040516.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-07-31,2012,07,31,31,201207,1,2012-07-31
+e9820192a49870f36f9f4f1ee618b12be7e5bdf1,2433364290.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-08-31,2012,08,31,35,201208,2,2012-08-31
+e3c7f54955b47bde1ee8584349526ac06d4fafac,2357069359.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-09-30,2012,09,30,39,201209,2,2012-09-30
+6d0b062c7e15f425f4c651bc448de49a42497b29,163522680.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-10-31,2012,10,31,44,201210,2,2012-10-31
+34342c617e1e13e0d386bfc7fd19b6c748abedfd,5068447805.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-11-30,2012,11,30,48,201211,2,2012-11-30
+06f5582d2f064a4921c09435a7e295009ca0ff58,10018835653.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,tekjuskattur-logadilar,"Tekjuskattur, lögaðilar",2012-12-31,2012,12,31,53,201212,3,2012-12-31
+9fbb672d56f5522bfec8bfbb2f83a24488d2bd4c,865014988.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+bee116829069921169e425f546f4697c892a7378,10274355622.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+27119d57407894523aa894b24d34b78928d8abe0,188426007.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+04dc00301271d7efc5f753f8ea9277fee3792450,290780486.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+749249456e5de58c2798fa565cc777be9d861f59,3630201913.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+3c2afe76552b886339d9beb4ea4a5bee4b7bed2b,792811244.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+50ca2f968372abe1ed70f6336fb2845012d45405,74993773.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+6cf16cd612b61e98403ac8d16d7f7c04b23d5e73,4272813580.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+b1a64ef56750a3bc98f095b76ae51b02b677f022,1146956222.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+bccef25c964c79324e4c4d02fc47031139b2e226,1052421820.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+4c97e94ba585535c2c5190cbc3e49c1a94c9c648,-5906141246.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+e49c7f0fd2686c47363f038dc51112c65b993008,726489407.0,skattar-a-tekjur-og-hagnad,Skattar á tekjur og hagnað,skattur-a-fjarmagnstekjur,Skattur á fjármagnstekjur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+37f657105cf25c7ec43f67ea129eaf9af3a26711,278594379.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+3b47541fdadf53b668511b3628fb25a1fc5ab488,220019395.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+f7efff30db3ab31af8c6cd8749277fb20c13155c,274181346.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+6814dd08cb275c460350ff9feef7c2df17917778,678352487.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+f337bfcaea7f6f029223ae9fbdee7123d5a2f4a9,635781689.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+bf528cd38d28bb44634a11adee622d7e4763f785,474567326.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+88f016e133dfdeaec98da9b585c9760a000fee24,479989110.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+4377c2cc56dcb553730c10f91478d0617c4efcc2,493081569.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+d85ff043533ae139c69cd28f509e60e76d79b8f8,481174179.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+f21b82b6ed622a2a735623661a8fb068d4cd1dc1,465338080.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+6b2d4e3c171f7446d8d89e124138249dde8657b2,456443978.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+9ff169700bfd4feb00eca8c4e104bee80a22e146,500619633.0,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,skattar-a-launagr-og-vinnuafl,Skattar á launagr. og vinnuafl,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+7603a47577d173b136313a69ff957512ab8fe79a,221906046.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+40ea8ba9fec17b42c2057ef4f83989409eab0de3,327121757.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+a36d46d077fae34bf2f55e3d1b25c3aed0a773ae,368815840.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+4c6d592adb8f2ce984a927744214851242264634,350463131.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+68d36020076d3f270c80c7a4a69a130a655ba4c0,356161058.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+d081b09a232d533ad146c2f4caf48b5e2e2c0d64,325154630.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+13606dae72ec6a7fff33ef7983292ebf6d044df5,10784300.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+cc195fdc27d075f8c88496fb2e0c35d0dc1a99b4,1034937145.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+d64cd32d4ac88106dd5315d220f0d9058c778797,1070843949.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+e53d2ff8deb72f25184d16e275c78cfed263d33f,1239642642.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+a9c52adaaa6b8a146bb8fc8d5059185c301600eb,1138044237.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+af58a4612dd01506fd9221e4eb038a5719910685,1328301872.0,eignarskattar,Eignarskattar ,audlegdarskattur,Auðlegðarskattur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+7680858eafd28e6d06861bc16cdc452a5713f94a,219533645.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+fa8350725f7ff219a3e3bb5d939283dbb900356e,286000739.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+fe2ca39870cd7adb6fa99c94e6cf5299cd60eb86,293471813.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+5bf9e9f8341606b87764ec51725460722a3941e0,201047409.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+6f640bb203d0066c72e840492c45ea881e5d8ed8,298797284.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+e14f02536d9f44ff6e4be9213a15de4eaad3e183,292459394.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+f9c3e6acb28e88a089c795936104570120a40b6a,310201552.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+e8dfc7066d9d6f44f7f088016ce3d41d7ca61a56,236138593.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+3d136247c6e6a2c85185762aca586cc78fa13806,213762963.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+fab3079c32ad02dec9fc7235eac59f8364bd15c1,380291098.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+83b962683004763772aa1774bdb458c4392def04,308120186.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+fb53731565736c43431551cc8bde7342b1c89c49,312962416.0,eignarskattar,Eignarskattar ,stimpilgjold,Stimpilgjöld,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+5502a773cd1ad39dbaa44634fdfa385bfbc91a18,64460106.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+1c4ca51392ca10d338c45fe9a65dec13ab6a3297,89073506.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+595a74b33dfc1c3a91f7b77644f6b6dd6f27c14f,202714135.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+98d7f9f52a0bf54117203fc28c621a674b69c580,137486618.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+e121954c0a427e916ddd27df6dd99a69ff9ea1f2,155304928.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+76a169a11bef1df8b706018093bba32c3d91cb5e,121578631.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+ea88f78c4e4b1165abf2a502d8fb05d1f5eb2ae9,136158267.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+4c774a7d35a5323c6a97fda2756f0eb4c4ff8dd7,98811939.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+9e1cdc5be5dcb68de084ff575b2f9a556c6acf7f,157146993.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+ae3f163e95eeb78630d6b25076553fde6a146ad6,151947619.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+71dd4cf884d22630f8d8328ff2570ace462534b1,240310548.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+5f9d80d92a3b4c197c5b0ffd801e2d4322cc8a8d,340783516.0,eignarskattar,Eignarskattar ,erfdafjarskattur,Erfðafjárskattur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+7373ab775da59c6b5534d81ed19f293475946b58,1356843157.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+0d8f286dfccb34abcb29d2e6e683974941d1537e,42327628.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+e338173381185792316e61edc22df1765550e11d,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+fc46dc6b746b2ae190661aa2bfcf66caaf17f99f,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+d582ae2fc9bf1f3e2c2d5e81e459babde42840a6,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+2896dc127cff699b46ed14c5558a4580137cad53,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+117d9a1717baf977f0d6bc371ff6be7df0c8f6f5,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+12ec66fe050badd404c33ca9691285900a0d9dc4,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+d5e65b57c467ecb9d4f75b1e93381d96b3a769b6,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+d26481aa43319ad3c69a4128f68d061f9517d014,-132040539.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+7853c674cc9ef38e06dcc3c818b775ec090edffa,118195685.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+4cdab6eddba131bfae477c9bdbbbf2f046ab7f8b,0.0,eignarskattar,Eignarskattar ,serstakt-gjald-a-lifeyrissjodi,Sérstakt gjald á lífeyrissjóði,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+576b3245241ac82022c40fafb0ae08b282d07e47,25959322.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+f1f7a4ed687cb50c1e2e3ccf945d3e2008e40bad,26882347.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+e31d253ec60582dad02d6067f609373c571e8d47,47385928.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+ce0349517e606531c7cd2a7adeab79d4359556f5,29547547.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+4c385d5e4f2fd109fa2e8841e693d3a30fe6193c,35275363.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+6e10c1d73951efefb7353cb0c944b49cb922d116,35518648.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+4e0b23721e5dc0e549b025b5de5dd7a4d2edf7bb,26414950.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+1b1fd377bf77186bfb3ced7ab5ef28af72668c29,21741773.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+b5aa6416a015ade57822606294c4a23a7abc3bbe,21044290.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+07c336b390c4d3bdbf8d226fb341101c389d0d63,30833084.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+6e5036cc5bac3adf56847d425f0b5b00ccfbfb37,29334725.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+0d1ff93254e4a5fb4c2afdd79d94fb6884851b07,355203873.0,eignarskattar,Eignarskattar ,adrir-eignarskattar,Aðrir eignarskattar,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+953e3548fc516cd0bac29eaf835e0a45c6d47f1f,3906615900.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+9f13a393f3d9f98fd51952bdf0f0cc38ba49183c,20429614806.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+722dc93c4bbd03b49bbe9cf1aef706eab0d9d77d,3177672534.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+3f893a63098d1447e844a799a41c888b333f05b3,14835134987.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+703db2b76b9b7846ebfa3182a6c1a12a4d01193e,5777925565.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+dace46187dcb825b3504408ea325ec4a8f23a65f,17234868341.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+b08113aadb4475927c5437ae06dbe85198c7b02b,6015111900.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+c2d9fb2e61bce89b862a179e087cad28688185d6,19228618573.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+3f8ccedc9a17281fb584061f1ebf17adc5680ba9,2440294424.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+6ad24ad005ebd7cc25e9f5eb78d866c29f098048,19319480345.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+3b919db469fb8604bfb990fa2b509800cfd18bcc,4323856360.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+d5c0abcc118f54bf48cabe29a1e2e09fc7b9a5af,18782708893.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,virdisaukaskattur,Virðisaukaskattur ,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+847e94fb517173851987ca9e2e5d3f5ed017b0f7,396777224.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+3c9af0611019f62b52c9750e6da339a2116e9ea0,518055440.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+db6d40e6546cd3f37407a2efca00fe07847f7b1f,342642243.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+a12cb93fd64e22b531d35b35da6899e1f1aaa276,460419934.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+52ef75507ca5341b937eb53f45e97faba01ee8a3,352249061.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+deb669b3d3acefecec9eafc062def788816c827d,531365856.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+1a86cca4a40310d0ff1bd14c914c82d0a184cd7c,342879703.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+82a678d162de52d74ca513ef17e70238801e9ee1,532700143.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+7a2445c6ce0cb68da5d05274673fda4650917eb0,382257989.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+0cc19db399f26b3c84bc054d377627ca995e1cdb,521411415.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+11901df193404d1f08a309620e9f5e2de41c765c,410977341.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+d25c7c3258b188d979d3a6beee663313171b2dbe,572024940.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-almenn,Vörugjöld almenn,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+d9792c9d44176d87f53ea261b171adc27a414ee5,411667476.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+d414d96893ed999a3ea45059dfa1ad21bb399d62,202735249.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+e3f5cded343719482f95435715dc4f013c7937bb,234921746.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+88f596f3b64348940e2f9383ce19c981fe9d16ee,330192216.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+2c41f6b02535cac35b65fd68836d0e3b545423c3,442269379.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+4cc2779a986d56bd276503b2935591a23b34503b,521982807.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+7a67c9043478806cb68b84b24c1e72fe61f04d15,389776911.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+328a85aa2db7d73046ea69148d9eb4671e61a04a,333558506.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+425b76f25815362a264684bec6d3fbe4aacb99d9,292743921.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+1eb1378c1a2c51ad86f2229dc4e7290c158d8512,329114771.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+66ed8255095389c70ae2102e2df70ba491e0dffe,345619966.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+c7ff299f76acb2fca637bc4b8506f30d2ef30787,353195528.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-okutaekjum,Vörugjöld af ökutækjum ,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+63cacdfabcd35c8e13c604e5f26d5de4a205eb6f,911550115.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+7399602db695c4e2714e6fd8f07302e3ce65bc8d,825613105.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+7d7391be7c6409fd1b69fd93f4fd45336057204d,864385150.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+02ab4dccd1e55b11571d4fad223cbf524693458b,892810122.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+d8d152c6ba3bb5daf5a4b6d0d3814fd35746e230,1074600097.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+156549a3b410ea0fac6a66ffaaa2c75544ba5baa,1098945894.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+23263c4fea3035c253be291c4d75648da95dea50,1140148418.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+38eb64511852614cf8c761079051f0075db6301a,1128208529.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+753c7c3895654ab971b89098af606615298ca72c,1065517806.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+90aaec1707a7f46992000befa1a0672439224783,971887176.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+7c239c7c2c9a154382ebc8110e9c8b8e9b7f2640,975436091.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+00677b3e72cab2914b8331c8ee55a00c1bdbd176,1007872102.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjold-af-bensini,Vörugjöld af bensíni,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+f522961897e3dd357bc6412c66338f9beb40be6b,502435607.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+e3a8fc43ee9b056c8948eebee1331b0c564a77a0,476950888.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+510add1bd3d88f4b0013e969e4444968c54fe497,453207758.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+5dcafb7fe38a5a68ae51927053bbe07ac0dd5803,564977461.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+926a15762b096cb0dedf504a1fc91fff74778bb1,520229851.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+ffc085e7fa891d6b440400347a2a2b70dddcbf7e,494225766.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+fab4b1ce694bd1be76e0609cbf3f092e67e8989b,584280800.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+af06788a04b1e0dcd763fe09630baddd7850cf81,767273415.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+6415f31272b76121cfb8ed1c0dab13b4878dd661,739370441.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+65d0c3f962bdbf8e87ae6727f14a2e1d66c0be5f,721609483.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+314a5e382e0703afc1e6a77accb3e79cace85d66,486540934.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+b4052b701b9686f135d9e4f5c1cde214f6fbf1f0,582470870.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,oliugjald,Olíugjald,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+ec49000b2a7a60f7b83d00573fd4edd97c061c26,176348642.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+723320cbe65c00913b0a12614327673ca67f5dc1,246563402.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+1881d2e71d4feeb2d4ba363341221254a4a29ff1,212531345.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+8dc28ab3bc55d99e98f62aa112bcd6c9a33d551b,190282972.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+8af7ab0a99a8e8a124c6351c8a0f6d3aefc9ee2f,383480564.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+924e3076df60feaeb96fe7af24be1ee084b70809,324743383.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+5fc40a206a1b76c92771be050405cf5b3bbbb2a4,281144184.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+b9a54bc4b5fd5a638e5b34a89fd1b613b96d6338,361227837.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+60d704c4ce5984ab9b50bb42a1fdda5436e37a00,273424649.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+1a280afedabfd27ae7fe1fc31608357b040f027d,132897189.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+d00906b06b21b568715a1c1eaa0f989cf7d5a1a7,300117048.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+0a95204fb0f529e06eb5874533f5dd64cdf3e586,177816260.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,kolefnisgjald,Kolefnisgjald,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+ba5db8183f717957f32afb8666b4ca8266bcdcf5,764753395.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+bf94375506036b2df8dbec74210b235e7c0e0722,752837444.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+58fa2a80791c619bebe775782948bb6a73707283,832247938.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+aab630f7c85dd3595e94ff1151129794379f0595,785672835.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+5f3d8bc9dedc25b734683b63c14dd3059e321e6b,978059551.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+f9c2b40b5087bb7181415f6e3371421f8060c546,1117525181.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+def09ecd2d65339f935b39bc0ccf1ee544cf0da9,1095449667.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+4d8f063d7fb1db4d7a060812db73adef7b80413d,1230935259.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+5267c8431843d8e92a1b00a84589544e5c9d719a,895049605.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+930c5a4cd023496a9fdd59fdcce9f118204d869c,747711397.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+1fdb89ad2dd50b7903ed53d5b294321f48d78f0b,982994705.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+05f078097da5a9cb921e8e5cdeec8af0953976b5,1164230185.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,afengisgjald,Áfengisgjald,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+b821e81a6a7cc4467d9d782341a9b963d4299208,561781327.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+b118db6da372a3b24d74cbb98af5a5951a976902,302492911.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+64ba11033d413ab3544d9c35ea2ed1d9ffb13bd1,358565671.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+7ab9364bb61f1db5d54b98391048f507494dabb2,403005989.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+206fef03cf873774397022a113e2fb822d76451c,423385354.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+618bf1a1b99e3efdb651ea6cee4b1157143bfbf5,446821002.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+ea1f032fa7e0fad141a67e6ed0e5ca5bf63581f5,436335988.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+57aa21969ea8586de0d3cec0b9edd53e980990af,490475990.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+536a604bf00cfde92c5d6d044a9d65515e999f41,451261029.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+24fd02d4ff481cd1598a094fa9886f8a8da97eb4,373204103.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+f2e820133ae17dcf6439248ca4572eac778b563b,430396605.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+7fc6f049a956e54c6044e7a13168e78a858409f7,400385465.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,tobaksgjald,Tóbaksgjald,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+90e87d13313ad08584ac9b62b3d0ae0b09c907dc,160122745.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-01-31,2012,01,31,05,201201,0,2012-01-31
+7597ce80bee087c7198bbd02bd16335b3e208cc0,315944456.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-02-29,2012,02,29,09,201202,0,2012-02-29
+ca498fe9bbf7917d6b5d62c2d7d4b674b73d49b0,91984019.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-03-31,2012,03,31,13,201203,0,2012-03-31
+3af89154575b0ef34ce362338b0a445b25101dc4,244594525.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-04-30,2012,04,30,18,201204,1,2012-04-30
+4e1711754ce5c078c0135a80118855e458123201,117127374.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-05-31,2012,05,31,22,201205,1,2012-05-31
+8fb3f0898dfeb0cd5144bab65ee6418624307288,291887596.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-06-30,2012,06,30,26,201206,1,2012-06-30
+1af95578424139c4e0c9fe5dcfc9240e044e726b,213438532.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-07-31,2012,07,31,31,201207,1,2012-07-31
+bc94a80123d4af82a7627505b0a28d372239b786,345789157.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-08-31,2012,08,31,35,201208,2,2012-08-31
+45fe6f256bd85b54dbb51bb0c3fa948babae6d82,125116725.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-09-30,2012,09,30,39,201209,2,2012-09-30
+d7ce58f83e2c548c0879656ede8c81f39f37d093,374668059.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-10-31,2012,10,31,44,201210,2,2012-10-31
+890163def86dbdfac1c5d12ab2a2c426f417b0d9,99816990.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-11-30,2012,11,30,48,201211,2,2012-11-30
+cf879d4587d59cbbc22f34f288b0025e5495bff9,255207114.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,vorugjald-umhverfisskattar,"Vörugjald, umhverfisskattar",2012-12-31,2012,12,31,53,201212,3,2012-12-31
+6b52058cd5c690b48ab19d0e19f4349d9c67343f,103316814.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+3a29db4757b72734f6f6e87bf6b1dc054d9560cd,437366157.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+bcc8bac9ac5b473cb08f9e8f555a7998977d62fb,83592236.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+98bb21b9a3eff33337f214f25f1450067a242cfe,432324775.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+d715721eeff0489ef717a2b5bfc095a065ddf443,18402804.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+fcad7ad6d9c1ac302d06a05d43131c7660216e2d,438153645.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+239f5eaf3edef1137e5c50af1eb05e9b09450ad3,65644268.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+f1394bcc4f1b955fba91f9510c9a6a630a393972,495565017.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+ce3a9e8f20a28ae8ea51b07ce38381904f50a94e,129735392.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+f80151bfea58e6a503bd93ff53d8ea5976ecf8cb,593325489.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+fce9bf5b2edb77bbacc6e91ac2170c5b2ae7175a,206237992.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+5b565e15791cd3924f21de9db18b93db6f6a6f4f,585135752.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,onnur-vorugjold,Önnur vörugjöld,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+659f42469bebb57c07599b49cb5704d4642415c5,490743256.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+94323d1b0e36d78bcc7b098af391afe253ec9016,87050461.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+7905b3fa56d650ee7a5cc600b08917d290fea19a,1428323059.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+468580d860a9f4a542d4a801ec94495ddbebf38d,714701209.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+fcf2d1a37b7f12905097ada599fe0f8349883777,491489681.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+7563a1d10913c16df4e16f2bfe9540d9501402cc,122289974.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+b25238da1c010c917531f94e4cecef794b708795,129869900.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+2b4ae786fd0976143eb0db89c826fdba11a9a2c0,1093486800.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+6b421eefdda0d2319dd8b13922db80971bf72802,132945524.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+e7a7ff0943dd5dfd38a7269fc7769d4ec9925f88,195719032.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+5fefbe1973f3321ad7100efa05d2fa3df9d21439,128427646.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+7bc65df9bb0ce94383033f17aabeead64503bec4,219353227.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,sertaekir-thjonustuskattar,Sértækir þjónustuskattar,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+759a3bcdae6c47abe170aa10a5f623e1674b8df9,544049581.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+e1d8a092244677a5f0ef174ad34c228c81993e4c,2154465432.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+7bdb500eae65af0b2ab30b306d95579fd19a48b9,301572389.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+ccb5f64c3902fef889f9ecbdb4d7f6bcfe20dda5,107048849.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+4423d7036190e5f50a617498bdb2a896dbafb8bc,46519417.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+4037df2303a6d238ae0e9a71f6dfe75f2367d174,27059377.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+7f17c427fc108a0b45889e6c3ffe77469e13253b,549073082.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+49f68ca0dd68403561e8bec4ffbf0e222cd845a5,2334493029.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+de279220626cbaa2f650a1b7aa13282fed690e38,250228521.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+b850249505cc6fdb1aa788a367061e0a185b4cff,66307333.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+18aa69f2f6a11b471d31e241a0aa0be70ea72719,24747727.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+4b330d0d035dc932eff4cefc6b1d5704f6393c93,8953624.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,bifreidagjald,Bifreiðagjald,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+069f9693efcec8280e14c550adc4a39b11e77896,78068195.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+efa23179e33cb847df4b759a2c8a63150f9e0290,459278263.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+22cdbeded53b4ad57b16167e3f53af40af92f4a1,238941681.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+1db6fa2745c62b18687b5511d328d50eadc90bff,186910727.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+66c9088286c61c3018d8b16d6c2c79e620f30200,330039616.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+e71bf5ef0dafde05ef5d0422b1f1e73f44fc6f34,176134546.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+5110ac8c8b219e52846d3ba926d15cda0c35c368,150789396.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+07e094acdd1415acfc1a533ada938229b18d236e,459114466.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+edfcb083e60efb09c2a8e39020117c3a28fbcbb1,226279679.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+65dede3c5ee64bde101fa4b1ec6f4879e6881141,165683231.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+251b314913508ea08f1a91cd846a354be420b6e9,135810397.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+ebdd3445be84e3924f2e0a7b6cde00b98678056c,125873141.0,skattar-a-voru-og-thjonustu,Skattar á vöru og þjónustu ,adrir-neyslu-og-leyfisskattar,Aðrir neyslu og leyfisskattar,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+416c068eb2a5ef471c99c56c11fb64195ee091ba,599506261.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+a51be2208f84ec707ce1dd37cfab568872bb4b2b,609511471.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+409b24dd730f44facafe5cfdd7677bbe3224a322,399341489.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+b2110a2b0ff914dbc9a9e77874296504ef24c6a2,528948641.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+ee76e5dc16e94f3f33a874f71ea880753d355f3e,564738010.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+75d81845ff41f600ca1ae774eeaf3a38cb6563e9,833861007.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+a94fa049007692872ccdb10283baf9721a0a8e3d,620298234.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+dfea7ba09ef088c882f5b2006cfe3f49b2d11746,633045185.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+a9066d135fa4cae6b0c0ef5cfcf16935d84088b2,570529740.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+6999c9d2c973df0682056c1e73d70399beba8b7a,528011313.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+65de8b1eb39eaef2de096e857467a0c68ef6d011,718050434.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+194cd78be62139af49973f93565a7177ee76db24,1039175193.0,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,tollar-og-adflutningsgjold,Tollar og aðflutningsgjöld ,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+c1aaea8b798440b1dfb9073fb8a49d0a8b54c819,5346920.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+85008c11d7f89e97f91c694686aab4672a31b75b,6105290.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+b336d4943a691d4b244070cf76c92e8fc04eb039,4314413.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+c1d9b7cd1083afb2928576f90ffb82a10f81d97a,4692272.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+e0c1f5f981e826a59fffb4914f59eae7425bc397,4464221.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+26fbc6b898ab6cdecf96a81eb5fe5ded8cb0e99c,3281544.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+7219761bc2eb0ea4fd7e22a3ae8793b527e0f671,3870237.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+b7933064b5aacb2d2e9d6085bead98c9a0699881,1440028262.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+5f1aa6b7a67a8a74d75ac7307a6949d57573f792,67913998.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+0e300644e32e2196461e2971452d843ff4e0bf3a,29344798.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+dad23318af86606c4256d1c6b374e6d87ecb60c6,11656330.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+8aa434bee99dfc6169ca65d9907fcccead60482a,10063790.0,adrir-skattar,Aðrir skattar,gjald-i-framkvaemdasjod-aldradra,Gjald í Framkvæmdasjóð aldraðra,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+19a8816c087b225e667cca0bec24eb2bb0767a46,62627741.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+fa3b0e870031bbb852b91632f4d9ece45fe18248,60312640.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+7ca69cf9fa2223242c4861066c5cb13992b63771,32022952.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+8db34b189e70c9f20c5fd1fa0bf71cd170a7cd0a,43428980.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+8ca240f90722de0108db6005c17a645550dd2a15,27317761.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+c3934ebfa996bc6db58cc411dc056f2754cbb237,17287396.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+39048bb5f76ce5cb71f1ec774aaeb9554ae5269f,18826791.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+be54dd6de7d22bd67111e1b917990cc439040f9e,1089015548.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+d44daf8cccd5222b6aa19d7cf7d86571e99def2a,826385921.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+e349b1b4099f8cf81a8604bef7119e413671ecb6,909298691.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+9fe6978cb7715534f32f2b379564a66f50e19114,501437184.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+5f5e3649a8c1ba3f91b33aecb5b5fdff6ffce235,167505640.0,adrir-skattar,Aðrir skattar,utvarpsgjald,Útvarpsgjald,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+871b48c3d2f1592b1a9979a92d94ac3faa6017fb,45696393.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+af228deda88427e6def71c97c54220cf279dc686,21154027.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+8e823a6c35ab026dcd8103e030b400032f8ecda7,-29067781.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+4603baddd1294acf9b1e4bdfcbbdb61274300538,22706780.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+25387fe5d07914c175af27067bc5bcef0d956f2b,68033533.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+8ed1d24d1381b52f3c428e6695283daa9e0f684c,67951070.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+df374a7b82b5a757a76180b0ecd69fccd0c893af,27083686.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+fe8e58e339ad26cee7399794cf24ad945412254d,65892716.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+75be7563e59975a8fbbcdac77a052c7d474bf877,17587453.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+5066c8c0da28f51e32a116e9b818c4afa04a8213,-188344986.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+a6fc8c17bf791b154ad8dccd5a8a1da92a89feef,3201802599.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+b61f72d4cf8da5081389a1f87452ddc15f0ee9e8,550527517.0,adrir-skattar,Aðrir skattar,ymsir-skattar-a-atvinnurekstur,Ýmsir skattar á atvinnurekstur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+a2d1f7681b38b6199d6a09a3a8cc4093440ee3fc,2329891516.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+af029298c577dc284425087f6e4b57c123e1c775,1812155800.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+6997295e5d42ccf90116be38e9c4de7455863991,2706407418.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+c792836724c57a9db95f71cad2a39808cb0524c2,1967827659.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+cf54ea25124a5eae861e6cc52d5376af33076884,2751020171.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+32f5a5b666afcb5706a7446f2650a429e88d06a3,2477817808.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+a7790cc4df2e1dc54a4c8980552b0e7b1c27ddb2,2512170013.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+3bb174d868d5e2708ebf149595bedeb6572a4567,2562965883.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+636d3bc1bf2c9cb13ebe8b1a0a84189a72322899,2456318701.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+fc8d5faa334d8fd3be2343f0f070c71c9b37c30c,2281073224.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+2dc023a0798494e1cdf2949c6dcec4f6afe6fdfa,2511805656.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+004f4333dbf427e6912017500c2154f2c2979918,2881147686.0,tryggingagjold,Tryggingagjöld,tryggingagjald-almennt,Tryggingagjald almennt,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+e6366603b7558ede003946f9e9e646eac704d38f,805132040.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+277ce29ce495e44ae37021a460a10dee84b31f5f,600523215.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+356063b7b40c6802dfe6fc81e4b91c142c52c894,1106053274.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+d2283c3609effa856c006ef1a120be7aa36ca28a,680490916.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+b51e8ece0d6ce3f58f432732542afec1c47f1b89,1102243308.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+56fbb1ea5cc0391afb8e709f3969b3840a0f010a,937176468.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+43511d71ae7991e0c8eb6ba7eb6f41a9715a6fa7,950243078.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+507d8729cc6d0270e3888b314173a18db5296b94,966542553.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+e6490e22ef15ac23f907467926c371792300af3c,928295563.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+8430f80df5beafc88547b5a83a8693fbdfd3b2c3,971131354.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+5af709735876fad393263e4d905748099a6f966e,946211705.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+2a788e00f9dd1d70385b6fa0d8cce3e8944531c0,1021622626.0,tryggingagjold,Tryggingagjöld,faedingaorlofssjodur,Fæðingaorlofssjóður,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+6a88a64e7b380dd5688e90e23f5a8188b77999d9,2781062158.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+66eda2a6e25118274cb237fb2e32ae09242ab5bd,2261686950.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+cade3001ea1b4d5f1e8bef2789701fee2d69bc4d,1037599187.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+502e33eb32372d682c151527fc98f10e6df9d12b,2388845948.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+ccc41b80dd2bebb71d3fb6cde1f62a8b24578e30,1052986746.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+841be0e5f8f943590b06442e3f2f19bad227b61e,1799748237.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+5ebafbb30809bc5b7fed2fd391e8b5fdcb759aa5,1851787873.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+06e61acb3f4565f416fde9cc7aa0c82c5f30d9c4,1900103183.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+36c1d2ec96bb2877bb765031bed47e4ccf6bfe63,1789865558.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+4afdbc90b915b10ad218f49648338af515297506,1926264450.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+0d1d1f2c0e446342d7b452ebcc6926c9c9cfe5a6,1851107623.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+a130ef1975c1b275f623e28cd539e4e99d8828f5,1704588207.0,tryggingagjold,Tryggingagjöld,atvinnutryggingagjald,Atvinnutryggingagjald,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+1eb601f8ae81f03d8c31285d2dcf490cc5dc78ac,196083019.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+5f13e207443f865d892d2c7bf5d33f9e0706101e,151679693.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+c905a346f7ad4d3f2c0c72fa2ac770fd9792b5da,273244188.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+a37d064b5f5386439b74f4e3dcec8033231278ef,164269426.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+08b2f42b0cbc91d299b0c45859e313c21fa01214,279678627.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+c2c7508d7baa6390cbe8d4b86a0b194d438c0dcf,233511124.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+df2b09f279d634290337121906f15e45515747b2,236730472.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+cf008ba3c88dbcadd2c6fbae76575a1cce7c201a,240488859.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+6a76075859b0092f823155fc5593327c28e6605f,231208776.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+8c784e40d1c675210cd4386ad7209a458b1fe2dd,241148505.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+4f7123b7dd05a169b3ad78d95c72180d72dfb908,235305950.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+0bcd5356ac0aa4a5e996d4c0c9735a30ea9d4241,246717341.0,tryggingagjold,Tryggingagjöld,onnur-tryggingagjold,Önnur tryggingagjöld,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+9a6751285b06cbf7850706ebc139c029b7e6ee62,12917400.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+36456ed9a71b59c456015df1c3782b9a2a4a4c77,12917400.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+38c0831ea0773b6120199d5ec859b81c9105b836,13549972.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+f82c2b43132f85906ba8479773d82be442b52cc0,12916600.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+e2972037a148d3dc625f983843e4a50430776f1c,12916600.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+aa14fed5854ed05906bfe5f2d782d259db134d9b,472592556.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+a7030f2d1018e7379c59e5a416bb20fc9b9f063e,12916600.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+8a3c4615eb393eaa9c8646f5b2d5dbfcf6802d93,13471904.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+d8bec7237f5af0f7a507e42148fab32d6cef36c4,78391631.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+3c4011a70005f1f8d1a7dcfe7da2b62cc112e169,92980979.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+312d5c521fab3e49af9fc448fe867a63a1cef66d,13546570.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+3e5ec0ebcc0714df42bd52e55724fc9d5c8eff20,927792590.0,fjarframlog,Fjárframlög,fjarframlog,Fjárframlög,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+4da6cd31717e805eb3f6ed55456e1ee1ad342fea,324034767.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+03d4e9d19d614d88978cc2db0d604d5c51cc9ef9,230814846.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+327622bc3af3b6095ef560294c291cfa9f4dd779,250381685.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+2c092f4f2d69f162280e70322e5d3fc0516e3f2e,185506490.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+5b96e412579a4c4585d5e799e20eb225cc831cdf,524601892.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+284e3e45f76338ff3f9576f18831ca6a7f6451c7,208156751.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+426c7eb3ed9f121933fb13dd332f30bad81b6256,251751591.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+e50073a385dd01109ce88b738610fe3639553c17,287109327.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+8708365c3b50510a5e487be168b6b02e7527b87e,209925593.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+3e0c741465b248cf09c2c36ef379a2b4623087ae,232214264.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+e6e3d8985e22e623ca86ee870b51b9e8af5d43ec,359540311.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+75bacccbb1b2b7877e7aa95144a530c3ef4b8638,220947680.0,adrar-tekjur,Aðrar tekjur,drattarvextir-af-skatttekjum,Dráttarvextir af skatttekjum,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+bd11d7c15f3656d183bbcf5253457657a9511039,450129618.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+edffab89353fc76a07981f6abf292d434cf004b6,2232697529.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+69edbcb5430ee64679aa509253b4483b41fb9c5a,1258952986.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+105df86b9f7f9e98eac53ba6b77551f3de0e1ebb,532873474.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+fcd170cac708798c897157d91dc05c2879829908,744859221.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+4fb687d1bdd5bfb74d31b7d273314a5525d9452c,984000858.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+0871fbf5c22825383125609214e90ab6106e791b,1327015891.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+a60486b27bcc86dd8caeea0329389e0df8358ed9,750042925.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+2eac484ee70a7b09b06729b9d064944e12f5ed0f,1236931714.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+750091f4bc6edb1f34f5443c38c67b66a28211fb,1500655915.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+dce2cfd5e4e078414cb361a9e76943851d4015d7,530111789.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+7b5cf580a4a660872c82e08b3fff381ab7c9ac8d,2226345872.0,adrar-tekjur,Aðrar tekjur,adrar-vaxtatekjur,Aðrar vaxtatekjur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+5636c12c4e912bf91b1faa14597a500e814a0b2f,8931280.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+032227ca6f61a7397151da2c7e7b6d8dd682ce04,9219000.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+8013e6c101d1e70924a36d136dd580b9676353de,10123500.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+c19d316d756d6c220ea3e58692c7fc6259886233,1807250000.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+79df452f2baabaf531f367c6682eb12d4fedfa7d,3473376523.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+92d5b1e7a6c7825463600f7d85c8472fc600e9c0,7181000.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+7d01757df051b8c3ce60e8bcfaab685b36c91c16,17920218.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+7bb0fe9372868395d1bc0d1ae81fdc5af18ed4c3,8881000.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+455a81dbd592d3133a643784eb65c06ff4fe692a,8881000.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+9ec1aedd00921e8c9ee8fcec9e5f84f50d6b8e56,8881000.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+dae40d0be2e0070afb1a03c79d58750c87b2b8d5,54989100.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+b60c51947508f5024e924fa54a10ad69b5ffbe35,6891712.0,adrar-tekjur,Aðrar tekjur,ardgreidslur,Arðgreiðslur ,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+4f0038597361c89f67060cd71c810d61f40dc81a,0.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+710d5617a74e0286eb712c6f30ad257229b06bc4,0.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+313469299448ba40532d970f503b3482d37f6f67,400000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+11d2f24a5641d31537b42b371c33f0514c9a616b,50000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+b5edc499ff4a1d4c72bedf8025f5d09ef53911fa,170000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+edf756c130dd3af334c4bffe87c56496005b6fb6,350000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+9776517323ce5c1c3489bbd5fdb2389e65672487,0.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+ed24d7b73d3919359d9ef8190ea70fd8b289dfed,50000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+3ceb443aeedec8f7924d0301f027bd2ddb1da654,300000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+1e109ffa98137f45232d37028b6a284cf9e18efc,16000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+1abdc8d76f9cc17eaac7f65be7f2d51332017578,0.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+b421c2be74bfbf9537219cfcbbf4faf429e14fa0,250000000.0,adrar-tekjur,Aðrar tekjur,hluti-af-tekjum-rikisfyrirtaekja,Hluti af tekjum ríkisfyrirtækja,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+46c5e87cbc75149307fb72939831c43681386288,880968909.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+5629c7e6fc2097b5c4cd7ec002ca861265372cc2,5701942.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+0765f9105c3ecc30e17e39753b3c13d1bde2cf40,98836891.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+873e51eb913e4495bf217490d828534a53010c31,1071245298.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+f6af4d3bfa30bb1bd27fe66dfc0b8500f1855d63,844452865.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+ea953c05421ce0510dc0394cebd8b86371a534f1,26931047.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+14e7c23732901814c650762babb9c7cf908ba173,44522755.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+f852540508ad073ddfd8e819490d9e9975585d85,15228817.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+942873b31e91c72f2116071b96c483404a529479,29804752.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+2bccafec90588615b5f736b7b660ff930fc8413c,490322248.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+db70e8cc222a2e9bdb48da6d429b69740cb77fb4,52205594.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+5a08b20ff28d1ceb8a25606f095998188b578b4c,3005057484.0,adrar-tekjur,Aðrar tekjur,leigutekjur,Leigutekjur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+5da9cca9501e513e5e8c77e74246b92b2332694b,285130098.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+246d34ab0d9f014f0cd3cea06561f1535c92685f,327566950.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+4200a646449319363f1bbf363089f5c56c1d3537,352968983.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+46249f0477371c0fd8cee034757ce9edf89b73b8,324332944.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+42812adf0c587c816650d53673c053b26579341d,321585978.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+5810a97b9925b1938d448b92e09a568f3976d065,885927639.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+77bc191c905e65585881bb073003acf5a0d5c53c,243804672.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+eefa17f0d3fcd7d921069520965feccb5e8b9942,344243314.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+be5f181c29ef1d1215a74a27095d825550dd0335,1396368329.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+22b6e433c581c8dd0a3611d6c004193430eed5ba,1100475922.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+bf2268a0eaebc4f1a80b0e7d0a50a59e00f96095,357271440.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+5f7f5769f9c93b0eb51afd0f77f9a608e18ca29e,425741610.0,adrar-tekjur,Aðrar tekjur,sala-a-voru-og-thjonustu,Sala á vöru og þjónustu,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+1707f74773c17a80e89e2ac426b873ce856b170f,64305629.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+b414893925f34ebfb506ecf216d0353ed3b2b9f9,116398089.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+698b5e6645f34ae384a4c08550688ac363765b40,210057341.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+53b3a730af98820ccedb42c68326b16029b1da28,84880984.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+11b3f9872ea32a248ca72f3e704d96d9688f744d,534304205.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+311cf9da92ea2f1177411a95d6984cf34031eac6,113678978.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+23b74ba9a0ad4bd023dfba11f405a08e18364f60,112620285.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+e33e4a5fe0c80bb8c29cf1ca9db922f6bf7f3307,73472398.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+8e1b2725b9734d34b4f97d96387b3bfa8d292e05,113053808.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+11ef32aec45c9d8ac90b7aa5b7958cf4f8379465,121294199.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+df1a5b7190a014704f6c89eeaaa966cd3ca0b8db,100402458.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+ee1116b2a7198fe30582c43d1e0acd96345c3aa7,92097402.0,adrar-tekjur,Aðrar tekjur,sektir-og-skadabaetur,Sektir og skaðabætur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+8d3d0434e059e8a7d7b99be92c99f10c9a85f8de,16945064.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+bef55bce8e551208d56f4b46468535a158501382,7528922.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+71a21ac9776ea690d033ee1a2a6152b76050cd19,55603114.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+1b5cf1098df3d952fa745c6b8b08e5205cd9f0e5,18470220.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+152cd9621c2dec1fe4518dd267af45d9ecd8894e,-10364000.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+7a9a8ed4c0dde4c3307163466e6b46126d97f9d0,31684966.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+085171f6c9fbac25940d676aafe27df31a1f4a26,-64956853.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+1f001dae2c265b53bc1a427512a4deca718d61e8,-4548574.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+7070ae96d6b9cc043e61a9c8afac04fd79572724,-27293058.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+d08c5e71279e7a563c19f1cce1acdad8a2fdfaa1,25258821.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+671908b2d9a3b23a6aab5b6dba4754f6643121e4,7812380.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+b9d44ae89f263a84c322b1e5849e75f8fb7de04b,3514414.0,adrar-tekjur,Aðrar tekjur,ymsar-og-oskilgreindar-tekjur,Ýmsar og óskilgreindar tekjur,2012-12-31,2012,12,31,53,201212,3,2012-12-31
+292f58e15bc0e0814ed8db6d72c4102bdd9c4c01,35700000.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-01-31,2012,01,31,05,201201,0,2012-01-31
+40a5f6039fb982c612b388fcff34ecd727034210,0.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-02-29,2012,02,29,09,201202,0,2012-02-29
+a756e3f1f223763096b980e94a7551efdb5feea0,1142502022.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-03-31,2012,03,31,13,201203,0,2012-03-31
+6640b66c0c77f2cf2aa3b6910141f134ea4245b9,27375889.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-04-30,2012,04,30,18,201204,1,2012-04-30
+2b7985657be2d45106e46e7dd8dc58b97af897cf,0.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-05-31,2012,05,31,22,201205,1,2012-05-31
+68ba280704f75975aa87f3ed0c8e5e66ffcdc423,8600000.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-06-30,2012,06,30,26,201206,1,2012-06-30
+5e34a6ac7f754a8f108326177174010bef85d163,44700000.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-07-31,2012,07,31,31,201207,1,2012-07-31
+1d72381770a068ee46c2c40a7fa1820b5936f29b,52539930.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-08-31,2012,08,31,35,201208,2,2012-08-31
+397e71c9c12db8c8b1446c6b7647326d890436c8,4995000.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-09-30,2012,09,30,39,201209,2,2012-09-30
+f6d290e58379db038d39819c25bb08d1b53698fa,25310000.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-10-31,2012,10,31,44,201210,2,2012-10-31
+9c749e0c545c05310b509df2e9b7e9e7fa5473f7,47918199.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-11-30,2012,11,30,48,201211,2,2012-11-30
+89f310848ab2887826577fd6ad4a12f0ae1c51a2,171190861.0,sala-eigna,Sala eigna,sala-eigna,Sala eigna,2012-12-31,2012,12,31,53,201212,3,2012-12-31
