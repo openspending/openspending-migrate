@@ -1,1 +1,321 @@
-{"profiles": {"tabular": "*", "fiscal": "*"}, "name": "tunisia_budget", "countryCode": ["TN"], "description": "Tunisian budget data from the World Bank.", "mapping": {"measures": {"ouvert": {"currency": "TND", "source": "ouvert"}, "amount": {"currency": "TND", "source": "amount"}, "delegation": {"currency": "TND", "source": "delegation"}, "ordonnance": {"currency": "TND", "source": "ordonnance"}}, "dimensions": {"sous_paragraph": {"attributes": {"label": {"source": "sous_paragraph"}}, "primaryKey": "label"}, "titre": {"attributes": {"label": {"source": "titre"}}, "primaryKey": "label"}, "paragraph": {"attributes": {"label": {"source": "paragraph"}}, "primaryKey": "label"}, "fund": {"attributes": {"label": {"source": "fund"}}, "primaryKey": "label"}, "budtype": {"attributes": {"label": {"source": "budtype"}}, "primaryKey": "label"}, "time": {"dimensionType": "datetime", "attributes": {"month": {"source": "time_month"}, "day": {"source": "time_day"}, "year": {"source": "time_year"}, "yearmonth": {"source": "time_yearmonth"}, "label": {"source": "time_name"}}, "primaryKey": "label"}, "article": {"attributes": {"label": {"source": "article"}}, "primaryKey": "label"}, "unique_id": {"attributes": {"label": {"source": "unique_id"}}, "primaryKey": "label"}, "region": {"attributes": {"label": {"source": "region"}}, "primaryKey": "label"}, "central_delegation": {"attributes": {"label": {"source": "central_delegation"}}, "primaryKey": "label"}, "partie": {"attributes": {"label": {"source": "partie"}}, "primaryKey": "label"}, "department": {"attributes": {"label": {"source": "department"}}, "primaryKey": "label"}}}, "title": "Tunisian budget", "resources": [{"schema": {"fields": [{"format": "default", "title": "", "type": "string", "name": "openspending_id", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "region", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "department", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "fund", "description": ""}, {"format": "default", "title": "", "type": "number", "name": "ouvert", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "sous_paragraph", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "article", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "budtype", "description": ""}, {"format": "default", "title": "", "type": "number", "name": "amount", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "partie", "description": ""}, {"format": "default", "title": "", "type": "number", "name": "ordonnance", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "paragraph", "description": ""}, {"format": "default", "title": "", "type": "number", "name": "delegation", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "titre", "description": ""}, {"format": "default", "title": "", "type": "string", "name": "central_delegation", "description": ""}, {"format": "default", "title": "", "type": "integer", "name": "unique_id", "description": ""}, {"format": "default", "title": "", "type": "date", "name": "time_name", "description": ""}, {"format": "default", "title": "", "type": "integer", "name": "time_year", "description": ""}, {"format": "default", "title": "", "type": "integer", "name": "time_month", "description": ""}, {"format": "default", "title": "", "type": "integer", "name": "time_day", "description": ""}, {"format": "default", "title": "", "type": "integer", "name": "time_week", "description": ""}, {"format": "default", "title": "", "type": "integer", "name": "time_yearmonth", "description": ""}, {"format": "default", "title": "", "type": "integer", "name": "time_quarter", "description": ""}, {"format": "default", "title": "", "type": "date", "name": "time", "description": ""}]}, "path": "dataset.csv", "name": "dataset"}]}
+{
+  "description": "Tunisian budget data from the World Bank.",
+  "resources": [
+    {
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "type": "string",
+            "name": "openspending_id",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "region",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "department",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "fund",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "number",
+            "name": "ouvert",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "sous_paragraph",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "article",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "budtype",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "number",
+            "name": "amount",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "partie",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "number",
+            "name": "ordonnance",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "paragraph",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "number",
+            "name": "delegation",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "titre",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "string",
+            "name": "central_delegation",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "integer",
+            "name": "unique_id",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "date",
+            "name": "time_name",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "integer",
+            "name": "time_year",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "integer",
+            "name": "time_month",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "integer",
+            "name": "time_day",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "integer",
+            "name": "time_week",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "integer",
+            "name": "time_yearmonth",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "integer",
+            "name": "time_quarter",
+            "format": "default",
+            "title": ""
+          },
+          {
+            "description": "",
+            "type": "date",
+            "name": "time",
+            "format": "default",
+            "title": ""
+          }
+        ]
+      },
+      "name": "dataset",
+      "path": "dataset.csv"
+    }
+  ],
+  "name": "tunisia_budget",
+  "countryCode": [
+    "TN"
+  ],
+  "profiles": {
+    "tabular": "*",
+    "fiscal": "*"
+  },
+  "mapping": {
+    "dimensions": {
+      "partie": {
+        "attributes": {
+          "label": {
+            "source": "partie"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "region": {
+        "attributes": {
+          "label": {
+            "source": "region"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "paragraph": {
+        "attributes": {
+          "label": {
+            "source": "paragraph"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "time": {
+        "attributes": {
+          "label": {
+            "source": "time_name"
+          },
+          "day": {
+            "source": "time_day"
+          },
+          "month": {
+            "source": "time_month"
+          },
+          "year": {
+            "source": "time_year"
+          },
+          "yearmonth": {
+            "source": "time_yearmonth"
+          }
+        },
+        "primaryKey": "label",
+        "dimensionType": "datetime"
+      },
+      "titre": {
+        "attributes": {
+          "label": {
+            "source": "titre"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "fund": {
+        "attributes": {
+          "label": {
+            "source": "fund"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "budtype": {
+        "attributes": {
+          "label": {
+            "source": "budtype"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "article": {
+        "attributes": {
+          "label": {
+            "source": "article"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "department": {
+        "attributes": {
+          "label": {
+            "source": "department"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "central_delegation": {
+        "attributes": {
+          "label": {
+            "source": "central_delegation"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "sous_paragraph": {
+        "attributes": {
+          "label": {
+            "source": "sous_paragraph"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "unique_id": {
+        "attributes": {
+          "label": {
+            "source": "unique_id"
+          }
+        },
+        "primaryKey": "label"
+      }
+    },
+    "measures": {
+      "ordonnance": {
+        "currency": "TND",
+        "source": "ordonnance"
+      },
+      "delegation": {
+        "currency": "TND",
+        "source": "delegation"
+      },
+      "amount": {
+        "currency": "TND",
+        "source": "amount"
+      },
+      "ouvert": {
+        "currency": "TND",
+        "source": "ouvert"
+      }
+    }
+  },
+  "title": "Tunisian budget"
+}
