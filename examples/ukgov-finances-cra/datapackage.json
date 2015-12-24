@@ -27,7 +27,7 @@
           },
           {
             "description": "",
-            "type": "number",
+            "type": "string",
             "name": "cofog2_name",
             "format": "default",
             "title": ""
@@ -265,7 +265,7 @@
           },
           {
             "description": "",
-            "type": "integer",
+            "type": "string",
             "name": "cofog1_name",
             "format": "default",
             "title": ""
