@@ -1,156 +1,30 @@
 {
-  "description": "Gj\u00f6ld stofnana a\u00f0 fr\u00e1dregnum s\u00e9rtekjum. Flokka\u00f0 eftir r\u00e1\u00f0uneytum. Skipt upp eftir \u00e1rsfj\u00f3r\u00f0ungum.\r\n\r\nEnglish: Net public spending. Categorised by ministries. Split by quarters.",
-  "resources": [
-    {
-      "schema": {
-        "fields": [
-          {
-            "description": "",
-            "type": "string",
-            "name": "openspending_id",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "number",
-            "name": "amount",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "to_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "to_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "from_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "from_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "date",
-            "name": "time_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_year",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_month",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_day",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_week",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_yearmonth",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_quarter",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "date",
-            "name": "time",
-            "format": "default",
-            "title": ""
-          }
-        ]
-      },
-      "name": "dataset",
-      "path": "dataset.csv"
-    }
-  ],
-  "name": "uppgjor-rikissjods",
   "countryCode": [
     "IS"
   ],
-  "profiles": {
-    "tabular": "*",
-    "fiscal": "*"
-  },
+  "description": "Gj\u00f6ld stofnana a\u00f0 fr\u00e1dregnum s\u00e9rtekjum. Flokka\u00f0 eftir r\u00e1\u00f0uneytum. Skipt upp eftir \u00e1rsfj\u00f3r\u00f0ungum.\r\n\r\nEnglish: Net public spending. Categorised by ministries. Split by quarters.",
   "mapping": {
     "dimensions": {
       "from": {
         "attributes": {
           "label": {
-            "source": "from_label",
-            "labelfor": "name"
+            "labelfor": "name",
+            "source": "from_label"
           },
           "name": {
             "source": "from_name"
           }
         },
-        "primaryKey": "name",
-        "dimensionType": "entity"
-      },
-      "to": {
-        "attributes": {
-          "label": {
-            "source": "to_label",
-            "labelfor": "name"
-          },
-          "name": {
-            "source": "to_name"
-          }
-        },
-        "primaryKey": "name",
-        "dimensionType": "entity"
+        "dimensionType": "entity",
+        "primaryKey": "name"
       },
       "time": {
         "attributes": {
-          "label": {
-            "source": "time_name"
-          },
           "day": {
             "source": "time_day"
+          },
+          "label": {
+            "source": "time_name"
           },
           "month": {
             "source": "time_month"
@@ -162,8 +36,25 @@
             "source": "time_yearmonth"
           }
         },
-        "primaryKey": "label",
-        "dimensionType": "datetime"
+        "dimensionType": "datetime",
+        "primaryKey": [
+          "year",
+          "month",
+          "day"
+        ]
+      },
+      "to": {
+        "attributes": {
+          "label": {
+            "labelfor": "name",
+            "source": "to_label"
+          },
+          "name": {
+            "source": "to_name"
+          }
+        },
+        "dimensionType": "entity",
+        "primaryKey": "name"
       }
     },
     "measures": {
@@ -173,5 +64,118 @@
       }
     }
   },
+  "name": "uppgjor-rikissjods",
+  "profiles": {
+    "fiscal": "*",
+    "tabular": "*"
+  },
+  "resources": [
+    {
+      "name": "dataset",
+      "path": "dataset.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "format": "default",
+            "name": "openspending_id",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "amount",
+            "title": "",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "to_name",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "to_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "from_name",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "from_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_name",
+            "title": "",
+            "type": "date"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_year",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_month",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_day",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_week",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_yearmonth",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_quarter",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time",
+            "title": "",
+            "type": "date"
+          }
+        ]
+      }
+    }
+  ],
   "title": "Uppgj\u00f6r r\u00edkissj\u00f3\u00f0s"
 }

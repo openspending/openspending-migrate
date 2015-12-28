@@ -1,140 +1,15 @@
 {
-  "description": "Tekjur r\u00edkissj\u00f3\u00f0s skipt eftir m\u00e1nu\u00f0um og tekjuflokkum (og undirflokkum).\r\n\r\nByggir \u00e1 g\u00f6gnum fr\u00e1 Fj\u00e1rs\u00fdslu r\u00edkisins.\r\n\r\nGovernment revenues by month and revenue categories (with sub-categories).",
-  "resources": [
-    {
-      "schema": {
-        "fields": [
-          {
-            "description": "",
-            "type": "string",
-            "name": "openspending_id",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "number",
-            "name": "amount",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "category_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "category_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "subcategory_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "subcategory_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "date",
-            "name": "time_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_year",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_month",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_day",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_week",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_yearmonth",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_quarter",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "date",
-            "name": "time",
-            "format": "default",
-            "title": ""
-          }
-        ]
-      },
-      "name": "dataset",
-      "path": "dataset.csv"
-    }
-  ],
-  "name": "tekjur-rikissjods",
   "countryCode": [
     "IS"
   ],
-  "profiles": {
-    "tabular": "*",
-    "fiscal": "*"
-  },
+  "description": "Tekjur r\u00edkissj\u00f3\u00f0s skipt eftir m\u00e1nu\u00f0um og tekjuflokkum (og undirflokkum).\r\n\r\nByggir \u00e1 g\u00f6gnum fr\u00e1 Fj\u00e1rs\u00fdslu r\u00edkisins.\r\n\r\nGovernment revenues by month and revenue categories (with sub-categories).",
   "mapping": {
     "dimensions": {
-      "subcategory": {
-        "attributes": {
-          "label": {
-            "source": "subcategory_label",
-            "labelfor": "name"
-          },
-          "name": {
-            "source": "subcategory_name"
-          }
-        },
-        "primaryKey": "name"
-      },
       "category": {
         "attributes": {
           "label": {
-            "source": "category_label",
-            "labelfor": "name"
+            "labelfor": "name",
+            "source": "category_label"
           },
           "name": {
             "source": "category_name"
@@ -142,13 +17,25 @@
         },
         "primaryKey": "name"
       },
-      "time": {
+      "subcategory": {
         "attributes": {
           "label": {
-            "source": "time_name"
+            "labelfor": "name",
+            "source": "subcategory_label"
           },
+          "name": {
+            "source": "subcategory_name"
+          }
+        },
+        "primaryKey": "name"
+      },
+      "time": {
+        "attributes": {
           "day": {
             "source": "time_day"
+          },
+          "label": {
+            "source": "time_name"
           },
           "month": {
             "source": "time_month"
@@ -160,8 +47,12 @@
             "source": "time_yearmonth"
           }
         },
-        "primaryKey": "label",
-        "dimensionType": "datetime"
+        "dimensionType": "datetime",
+        "primaryKey": [
+          "year",
+          "month",
+          "day"
+        ]
       }
     },
     "measures": {
@@ -171,5 +62,118 @@
       }
     }
   },
+  "name": "tekjur-rikissjods",
+  "profiles": {
+    "fiscal": "*",
+    "tabular": "*"
+  },
+  "resources": [
+    {
+      "name": "dataset",
+      "path": "dataset.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "format": "default",
+            "name": "openspending_id",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "amount",
+            "title": "",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "category_name",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "category_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "subcategory_name",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "subcategory_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_name",
+            "title": "",
+            "type": "date"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_year",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_month",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_day",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_week",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_yearmonth",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_quarter",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time",
+            "title": "",
+            "type": "date"
+          }
+        ]
+      }
+    }
+  ],
   "title": "Tekjur r\u00edkissj\u00f3\u00f0s"
 }

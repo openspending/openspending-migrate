@@ -1,163 +1,15 @@
 {
-  "description": "Aggregated expenditure of Bosnia and Herzegovina",
-  "resources": [
-    {
-      "schema": {
-        "fields": [
-          {
-            "description": "",
-            "type": "string",
-            "name": "openspending_id",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "level",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "cofog3_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "cofog3_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "cofog2_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "cofog2_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "from_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "from_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "cofog1_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "string",
-            "name": "cofog1_label",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "number",
-            "name": "amount",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "date",
-            "name": "time_name",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_year",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_month",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_day",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_week",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_yearmonth",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "integer",
-            "name": "time_quarter",
-            "format": "default",
-            "title": ""
-          },
-          {
-            "description": "",
-            "type": "date",
-            "name": "time",
-            "format": "default",
-            "title": ""
-          }
-        ]
-      },
-      "name": "dataset",
-      "path": "dataset.csv"
-    }
-  ],
-  "name": "bosnia-herzegovina",
   "countryCode": [
     "BA"
   ],
-  "profiles": {
-    "tabular": "*",
-    "fiscal": "*"
-  },
+  "description": "Aggregated expenditure of Bosnia and Herzegovina",
   "mapping": {
     "dimensions": {
       "cofog1": {
         "attributes": {
           "label": {
-            "source": "cofog1_label",
-            "labelfor": "name"
+            "labelfor": "name",
+            "source": "cofog1_label"
           },
           "name": {
             "source": "cofog1_name"
@@ -168,8 +20,8 @@
       "cofog2": {
         "attributes": {
           "label": {
-            "source": "cofog2_label",
-            "labelfor": "name"
+            "labelfor": "name",
+            "source": "cofog2_label"
           },
           "name": {
             "source": "cofog2_name"
@@ -177,13 +29,46 @@
         },
         "primaryKey": "name"
       },
-      "time": {
+      "cofog3": {
         "attributes": {
           "label": {
-            "source": "time_name"
+            "labelfor": "name",
+            "source": "cofog3_label"
           },
+          "name": {
+            "source": "cofog3_name"
+          }
+        },
+        "primaryKey": "name"
+      },
+      "from": {
+        "attributes": {
+          "label": {
+            "labelfor": "name",
+            "source": "from_label"
+          },
+          "name": {
+            "source": "from_name"
+          }
+        },
+        "dimensionType": "entity",
+        "primaryKey": "name"
+      },
+      "level": {
+        "attributes": {
+          "label": {
+            "source": "level"
+          }
+        },
+        "primaryKey": "label"
+      },
+      "time": {
+        "attributes": {
           "day": {
             "source": "time_day"
+          },
+          "label": {
+            "source": "time_name"
           },
           "month": {
             "source": "time_month"
@@ -195,41 +80,12 @@
             "source": "time_yearmonth"
           }
         },
-        "primaryKey": "label",
-        "dimensionType": "datetime"
-      },
-      "cofog3": {
-        "attributes": {
-          "label": {
-            "source": "cofog3_label",
-            "labelfor": "name"
-          },
-          "name": {
-            "source": "cofog3_name"
-          }
-        },
-        "primaryKey": "name"
-      },
-      "level": {
-        "attributes": {
-          "label": {
-            "source": "level"
-          }
-        },
-        "primaryKey": "label"
-      },
-      "from": {
-        "attributes": {
-          "label": {
-            "source": "from_label",
-            "labelfor": "name"
-          },
-          "name": {
-            "source": "from_name"
-          }
-        },
-        "primaryKey": "name",
-        "dimensionType": "entity"
+        "dimensionType": "datetime",
+        "primaryKey": [
+          "year",
+          "month",
+          "day"
+        ]
       }
     },
     "measures": {
@@ -239,5 +95,153 @@
       }
     }
   },
+  "name": "bosnia-herzegovina",
+  "profiles": {
+    "fiscal": "*",
+    "tabular": "*"
+  },
+  "resources": [
+    {
+      "name": "dataset",
+      "path": "dataset.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "format": "default",
+            "name": "openspending_id",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "level",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "cofog3_name",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "cofog3_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "cofog2_name",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "cofog2_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "from_name",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "from_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "cofog1_name",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "cofog1_label",
+            "title": "",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "amount",
+            "title": "",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_name",
+            "title": "",
+            "type": "date"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_year",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_month",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_day",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_week",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_yearmonth",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time_quarter",
+            "title": "",
+            "type": "integer"
+          },
+          {
+            "description": "",
+            "format": "default",
+            "name": "time",
+            "title": "",
+            "type": "date"
+          }
+        ]
+      }
+    }
+  ],
   "title": "Bosnia and Herzegovina"
 }
