@@ -81,7 +81,7 @@ def transform_dataset(source):
                     'source': norm_name + '_yearmonth'
                 } 
             }
-            dim['primaryKey'] = 'label'
+            dim['primaryKey'] = ['year','month','day']
             dim['dimensionType'] = 'datetime'
         if src.get('type') == 'attribute':
             dim['attributes'] = {
