@@ -11,16 +11,21 @@ DIR = 'test_exports'
 def slug(name):
     return slugify(name, sep='_')
 
+def private_or_public(ds):
+    if ds['private']:
+        return 'private'
+    else:
+        return 'public'
+
 def create_datapackage(ds):
     # Create datapackage based on dataset.json
     dp = datapackage.DataPackage()
-    basepath = '{0}/{1}'.format(DIR,ds['name'])
+    basepath = '{0}/{1}/{2}'.format(DIR,private_or_public(ds),ds['name'])
     dp.metadata['name'] = ds['name']
     dp.metadata['title'] = ds['label']
     dp.metadata['description'] = ds['description']
     if ds['territories']:
         dp.metadata['countryCode'] = ds['territories']
-    dp.metadata['license'] =  "ODbL-1.0"
     dp.metadata['profiles'] = {'fiscal': '*','tabular': '*'}
     dp.metadata['resources'] = [{}]
     resource = dp.resources[0]
@@ -39,12 +44,13 @@ def create_datapackage(ds):
     return dp
     
 def list_datasets():
-    for name in os.listdir(DIR):
-        ds_dir = os.path.join(DIR, name)
-        if os.path.isdir(ds_dir):
-            with open(os.path.join(ds_dir, 'dataset.json'), 'r') as fh:
-                meta = json.load(fh)
-                yield ds_dir, meta
+    for root, dirs, files in os.walk(DIR):
+        for f in files:
+            if f == 'dataset.json':
+                with open(os.path.join(root, f), 'r') as fh:
+                    meta = json.load(fh)
+                    print(root)
+                    yield root, meta
 
 
 def transform_dataset(source):
@@ -97,7 +103,7 @@ def transform_dataset(source):
                     'source': norm_name + '_' + attr
                 }
                 if attr == 'label':
-                    dim['attributes'][attr]['labelfor'] = norm_name + '_name'
+                    dim['attributes'][attr]['labelfor'] = 'name'
             if 'name' in dim['attributes']:
                 dim['primaryKey'] = 'name'
         # content
@@ -113,7 +119,7 @@ if __name__ == '__main__':
             dp = create_datapackage(ds)
             # Write datapackage.json
             with open(os.path.join(dir, 'datapackage.json'), 'w') as fh:
-                fh.write(dp.to_json())
+                fh.write(json.dumps(dp.metadata, indent=2, sort_keys=True))
         else:
             print(ds.get('name'))
                         

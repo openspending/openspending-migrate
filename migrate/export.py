@@ -1,11 +1,8 @@
-import csv
-import datapackage
 import dataset
 import io
 import json
 import os
 from datetime import datetime
-from jsontableschema import infer
 from normality import slugify
 
 DB_URI = os.environ.get('DB_URI')
@@ -13,18 +10,30 @@ DATASETS_NOT_TO_EXPORT = []
 
 engine = dataset.connect(DB_URI,reflect_metadata=False)
 
+def private_or_public(ds):
+    if ds['private']:
+        return 'private'
+    else:
+        return 'public'
+
+def namespace(ds):
+    if len(ds.get(['team'])):
+        return ds.get(['team'])
+    else:
+        return 'core'
+    
 def json_default(obj):
     if isinstance(obj, datetime):
         return obj.isoformat()
-        
+
 def get_mappings():
     for ds in list(engine['dataset']):
+        if ds['private']:
+            continue
+
         if ds['name'] in DATASETS_NOT_TO_EXPORT:
             continue
 
-        if ds['private'] == True:
-            continue
-        
         ds['data'] = json.loads(ds['data'])
         ds['languages'] = []
         for lang in engine['dataset_language'].find(dataset_id=ds['id']):
@@ -93,8 +102,8 @@ def get_queries():
                                             join_clause)
 
 def freeze_all():
-    out_base = 'exports'
     for ds, query in get_queries():
+        out_base = os.path.join('exports5', private_or_public(ds))
         try:
             ds['export_query'] = query
             path = os.path.join(out_base, ds[u'name'])
